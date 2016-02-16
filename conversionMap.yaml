@@ -1,0 +1,468 @@
+-
+  type: abc
+  name: abc Notation
+  targets:
+    -
+      type: jpg
+      intermediates:
+        - ly
+        - png
+    -
+      type: ly
+    -
+      type: midi
+      intermediates:
+        - ly
+    -
+      type: pdf
+      intermediates:
+        - ly
+    -
+      type: png
+      intermediates:
+        - ly
+    -
+      type: ps
+      intermediates:
+        - ly
+    -
+      type: svg
+      intermediates:
+        - ly
+
+-
+  type: bmp
+  name: Bitmap
+  targets:
+    -
+      type: gif
+      func: sipsWrapper
+      referenceFile: sips
+    -
+      type: ico
+      func: sipsWrapper
+      deps:
+        - imagemagick
+    -
+      type: jp2
+      func: sipsWrapper
+    -
+      type: jpg
+      func: sipsWrapper
+    -
+      type: png
+      func: sipsWrapper
+    -
+      type: tga
+      func: sipsWrapper
+    -
+      type: tif
+      func: sipsWrapper
+
+-
+  type: coffee
+  name: CoffeeScript
+  targets:
+    -
+      type: js
+
+-
+  type: csv
+  name: Comma Seperated Values
+  targets:
+    -
+      type: html
+    -
+      type: json
+    -
+      type: json5
+      intermediates:
+        - json
+    -
+      type: tsv
+    -
+      type: yaml
+      intermediates:
+        - json
+
+-
+  type: gif
+  name: Graphics Interchange Format
+  targets:
+    -
+      type: bmp
+      func: sipsWrapper
+    -
+      type: ico
+      func: sipsWrapper
+    -
+      type: jp2
+      func: sipsWrapper
+    -
+      type: jpg
+      func: sipsWrapper
+    -
+      type: png
+      func: sipsWrapper
+    -
+      type: tga
+      func: sipsWrapper
+    -
+      type: tif
+      func: sipsWrapper
+
+-
+  type: html
+  name: Hyper Text Markup Language
+  targets:
+    -
+      type: md
+    -
+      type: jade
+
+-
+  type: ico
+  name: Graphics Interchange Format
+  targets:
+    -
+      type: bmp
+      func: sipsWrapper
+    -
+      type: gif
+      func: sipsWrapper
+      referenceFile: sips
+    -
+      type: jp2
+      func: sipsWrapper
+    -
+      type: jpg
+      func: sipsWrapper
+      referenceFile: sips
+    -
+      type: png
+      func: sipsWrapper
+      referenceFile: sips
+    -
+      type: tga
+      func: sipsWrapper
+    -
+      type: tif
+      func: sipsWrapper
+      referenceFile: sips
+
+-
+  type: jpg
+  name: Joint Photographic Experts Group
+  targets:
+    -
+      type: bmp
+      func: sipsWrapper
+    -
+      type: gif
+      func: sipsWrapper
+    -
+      type: ico
+      func: sipsWrapper
+    -
+      type: jp2
+      func: sipsWrapper
+    -
+      type: png
+      func: sipsWrapper
+    -
+      type: tga
+      func: sipsWrapper
+    -
+      type: tif
+      func: sipsWrapper
+
+-
+  type: jp2
+  name: Joint Photographic Experts Group 2000
+  targets:
+    -
+      type: bmp
+      func: sipsWrapper
+    -
+      type: gif
+      func: sipsWrapper
+    -
+      type: ico
+      func: sipsWrapper
+    -
+      type: jpg
+      func: sipsWrapper
+    -
+      type: png
+      func: sipsWrapper
+    -
+      type: tga
+      func: sipsWrapper
+    -
+      type: tif
+      func: sipsWrapper
+
+-
+  type: js
+  name: JavaScript
+  targets:
+    -
+      type: coffee
+
+-
+  type: json
+  name: JavaScript Object Notation
+  targets:
+    -
+      type: json5
+    -
+      type: yaml
+
+-
+  type: json5
+  name: JavaScript Object Notation ES5
+  targets:
+    -
+      type: json
+
+-
+  type: ly
+  name: LilyPond
+  targets:
+    -
+      type: midi
+      func: renderLilypond
+    -
+      type: pdf
+      func: renderLilypond
+    -
+      type: png
+      func: renderLilypond
+    -
+      type: ps
+      func: renderLilypond
+    -
+      type: svg
+      func: renderLilypond
+
+-
+  type: midi
+  name: Musical Instrument Digital Interface
+  skip: true
+  targets:
+    -
+      type: wav
+      func: fluidSynthesizer
+
+-
+  type: mp3
+  name: Moving Picture Experts Group Audio Layer 3
+  targets:
+    -
+      type: png
+      func: audio2png
+      skip: true
+      dependencies: [libgroove, libpng, zlib]
+
+-
+  type: png
+  name: Portable Network Graphics
+  targets:
+    -
+      type: bmp
+      func: sipsWrapper
+    -
+      type: gif
+      func: sipsWrapper
+    -
+      type: ico
+      func: sipsWrapper
+    -
+      type: jp2
+      func: sipsWrapper
+    -
+      type: jpg
+      func: sipsWrapper
+    -
+      type: tga
+      func: sipsWrapper
+    -
+      type: tif
+      func: sipsWrapper
+
+-
+  type: psd
+  name: Photoshop Document
+  targets:
+    -
+      type: bmp
+      func: sipsWrapper
+    -
+      type: gif
+      func: sipsWrapper
+    -
+      type: ico
+      func: sipsWrapper
+      skip: true
+      issues:
+        - Cannot create non-square ICO image (256 x 204)
+    -
+      type: jp2
+      func: sipsWrapper
+    -
+      type: jpg
+      func: sipsWrapper
+    -
+      type: png
+      func: sipsWrapper
+    -
+      type: tga
+      func: sipsWrapper
+    -
+      type: tif
+      func: sipsWrapper
+
+-
+  type: scad
+  name: Solid Computer Aided Design
+  targets:
+    -
+      type: csg
+      func: scadRenderer
+    -
+      type: dxf
+      func: scadRenderer
+      skip: true
+    -
+      type: off
+      skip: true
+      func: scadRenderer
+    -
+      type: png
+      func: scadRenderer
+    -
+      type: stl
+      func: scadRenderer
+
+-
+  type: stl
+  name: Stereolithography
+  targets:
+    -
+      type: gcode
+      skip: true
+      func: slicer
+      config:
+        header: false
+    -
+      type: obj
+    -
+      type: png
+
+-
+  type: styl
+  name: Stylus
+  targets:
+    -
+      type: css
+
+-
+  type: svg
+  name: Scalable Vector Graphics
+  targets:
+    -
+      type: eps
+      func: rasterizer
+      timeout: 10s
+    -
+      type: pdf
+      func: rasterizer
+    -
+      type: png
+      func: rasterizer
+    -
+      type: ps
+      func: rasterizer
+    -
+      type: svg
+      func: rasterizer
+      skip: true
+
+-
+  type: tif
+  name: Tagged Image File Format
+  targets:
+    -
+      type: bmp
+      func: sipsWrapper
+    -
+      type: gif
+      func: sipsWrapper
+    -
+      type: ico
+      func: sipsWrapper
+    -
+      type: jp2
+      func: sipsWrapper
+    -
+      type: jpg
+      func: sipsWrapper
+    -
+      type: png
+      func: sipsWrapper
+    -
+      type: tga
+      func: sipsWrapper
+
+-
+  type: tsv
+  name: Tab Seperated Values
+  targets:
+    -
+      type: csv
+    -
+      type: html
+    -
+      type: json
+    -
+      type: json5
+      intermediates:
+        - json
+    -
+      type: yaml
+      intermediates:
+        - json
+
+- type: vcf
+  name: vCard
+  targets:
+    -
+      type: json
+    -
+      type: json5
+      intermediates:
+        - json
+    -
+      type: yaml
+      intermediates:
+        - json
+
+-
+  type: wav
+  name: Waveform Audio File Format
+  targets:
+    -
+      type: aac
+    -
+      type: mp3
+
+-
+  type: yaml
+  name: YAML Ain't Markup Language
+  targets:
+    -
+      type: json
+    -
+      type: json5
+      intermediates:
+        - json
