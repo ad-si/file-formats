@@ -1,0 +1,1333 @@
+Format	Extensions	Description	Categories	Encoding	Link	Apps
+!UT	!ut	partially completed downloads in uTorrent	partial-file, incomplete-transfer			uTorrent
+(Edited) Challenge files.	challenge.gbx		video-game-data, trackmania			TrackMania
+3-D wireframe graphics	3dv	By Oscar Garcia	vector-graphics			
+3D Markup Language for Web	3dmlw	3D Markup Language for Web files	CAD			
+3D Topicscape Database	3dt	The database in which the meta-data of a 3D Topicscape is held. A 3D Topicscape is a form of 3D concept map (like a 3D mind-map) used to organize ideas, information and computer files.	gio			
+3D Topicscape file	aty	Produced when an association type is exported by 3D Topicscape. Used to permit round-trip (export Topicscape, change files and folders as desired, re-import them to 3D Topicscape	gio			
+3D Topicscape file	fes	Produced when a fileless occurrence in 3D Topicscape is exported to Windows. Used to permit round-trip (export Topicscape, change files and folders as desired, re-import them to 3D Topicscape	gio			
+3D Topicscape file	tpc	Produced when an inter-Topicscape topic link file is exported to Windows. Used to permit round-trip (export Topicscape, change files and folders as desired, re-import them to 3D Topicscape).	gio			
+3GP	3gp	The most common video format for cell phones	video			
+4D database Data file	4dd		database			
+4D database Data Index file	4dindx		database			
+4D database Data resource file (in old 4D versions)	4dr		database			
+4D database Structure file	4db		database			
+4D database Structure Index file	4dindy		database			
+7-Zip compressed file	7z		archive, compression	binary		
+880K diskette images	adf		video-game-storage-media			Amiga
+A file 	a	A very confusing file that only a few set of programs can make a good use out of.		text		The Binding of Isaac: Rebirth
+a file format used by old versions of Microsoft Paint. Replaced with BMP in Microsoft Windows 3.0	msp		raster-graphics			
+a lossless format used by ZSoft's PC Paint, popular at one time on DOS systems.	pcx		raster-graphics			
+A lump is an entry in a DOOM wad.	lmp		video-game-data			DOOM
+a run-length encoded image	rle		raster-graphics			
+A U.S. Government standard commonly used in Intelligence systems	nitf		raster-graphics			
+AAF	aaf	Mostly intended to hold edit decisions and rendering information, but can also contain compressed media essence	video			
+Ability Draw	awg		vector-graphics			
+Ability Spreadsheet	aws		spreadsheet			
+Ability Write	aww		document			
+AbiWord Document	abw		document			
+Ableton Live clip	alc		audio-editing, music-production			
+Ableton Live set	als		audio-editing, music-production			
+Abstract Syntax Notation One	asn, asn.1	Is an International Standards Organization (ISO) data representation format used to achieve interoperability between platforms. NCBI uses ASN.1 for the storage and retrieval of data such as nucleotide and protein sequences, structures, genomes, and PubMed records.	biology, molecular-biology			
+Abykus workbook	ab3		spreadsheet			
+Abykus worksheet	ab2		spreadsheet			
+AC3D Model	ac		3d-graphics			
+ACE compressed file	ace		archive, compression	binary		
+AcqKnowledge File Format	acq	For Windows/PC from Biopac Systems Inc., Goleta, CA, USA.	biomedical-signals			
+AcqKnowledge File Format	acq	For Windows/PC from Biopac	signal-data			
+ActionScript	as	Adobe Flash ActionScript File	script			
+Ada (body) source	ada, adb, 2.ada		code			
+Ada (specification) source	ads, 1.ada		code			
+Add-in file for Microsoft Access	mda		database			
+Additive Manufacturing File Format	amf		CAD			
+Additive Manufacturing File Format	amf		vector-graphics			
+Additive Manufacturing File Format	amf		3d-graphics			
+Adobe Acrobat or Adobe Reader	pdf		desktop-publishing			
+Adobe Audition multitrack session file	ses		audio-editing, music-production			
+Adobe Binary Screen Font	abf		font			
+Adobe Color Table. Contains a raw color palette and consists of 256 24-bit RGB colour values.	act		color-palettes			
+Adobe Flash shared object	sol	Also called Flash cookie	video			
+Adobe Font Metrics	afm		font			
+Adobe Font Metrics	afm		font			Adobe
+Adobe FrameMaker	fm		desktop-publishing			
+Adobe Illustrator	ai		desktop-publishing			
+Adobe Illustrator Document	ai		vector-graphics			
+Adobe InDesign	indd		desktop-publishing			
+Adobe JavaScript language	jsfl	By Adobe	script			
+Adobe PageMaker	pmd		desktop-publishing			
+Adobe Photoshop	psd		desktop-publishing			
+Adobe Photoshop Big image file	psb	For large files	raster-graphics			
+Adobe Photoshop Drawing	psd, pdd		raster-graphics			
+Adobe PRC	prc	embedded in PDF files	3d-graphics			
+Adobe Premiere Pro video editing file	ppj, prproj		video-editing			
+Adobe Swatch	ase		raster-graphics			
+Advanced Audio Coding	aac		archive, compression	binary		
+Advanced Audio Coding	m4a, mp4, m4p, aac	Usually in an MPEG-4 container	audio, music, sound, lossy			
+Advanced Function Presentation	afp	IBc	document			
+Advanced Stream Redirector	asx		playlists			
+Advanced Systems Format	asf		other-music			
+Advanced Video Codec High Definition	avchd		video			
+ADZ	adz	The GZip-compressed version of ADF.	physical, recordable media, archiving	binary		
+Aegisub subtitle file	ass, sas	A subtitles file created by Aegisub, a video typesetting application (Also a Halo game engine file)	archive, compression	binary		
+AFNI data, meta-data	brik, head		biomedical-imaging			
+AGTEK format	esw		CAD			
+AIMP Playlist format	aimppl		playlists			
+Akai MPC sound file	snd		audio-editing, music-production			
+Alembic	abc	Computer graphics	3d-graphics			
+Alias		Mac OS	links-and-shortcuts			
+ALZip compressed file	alz		archive, compression	binary		
+America Online proprietary format	art		raster-graphics			
+American National Standards Institute Text	ans	Also called ANSI text	document			
+Amiga Disk Format	adf	For archiving Amiga floppy disks	physical, recordable media, archiving	binary		
+Amigaguide	amigaguide		document			
+AMR	amr	For GSM and UMTS based mobile phones	audio, music, sound, lossy			
+An Apple Numbers Spreadsheet file	numbers		spreadsheet			
+Analog waveform format	fsdb	See also Waveform viewer	EDA			
+Analyze data, meta-data 	img, hdr		biomedical-imaging			
+Android Package	apk		executable-files			
+Anim8or Model	an8		3d-graphics			
+Animated Cursor	ani		cursors			
+Animated GIF	gif	Simple animated image format. Until recently often avoided because of patent problems.	video			
+Animated Network Graphics	mng	Mainly simple animation containing PNG and JPEG objects, often somewhat more complex than animated GIF	video			
+Animations format	uax		video-game-data			Unreal Engine, Unreal Engine 2
+AOLserver Dynamic Page	adp		webpage, dynamically generated			
+Apcera Policy Language doclet	pol		code			
+Apple IMovie for IOS users	imoviemobile		video-editing			
+Apple iOS application executable file	ipa	Another form of zip file.	executable-files			
+Apple Keynote Presentation	key, keynote		presentation			
+Apple Lossless	m4a		music, sound, lossless, compressed			
+Apple Macintosh PICT image	pict, pct		raster-graphics			
+Apple Motion project file	motn		video-editing			
+Apple Pages document	pages		document			
+AppleScript	applescript, scpt, scptd		script			
+Applications installable on Android	apk		archive, compression	binary		
+Applied Biosystems 1	ab1	Chromatogram files used by instruments from Applied Biosystems in DNA sequencing	biology, molecular-biology			
+Aquafadas	ave / zave		desktop-publishing			
+ARC	arc		archive, compression	binary		
+ARC/INFO interchange file format	e00		gis			
+ArchiCad project	pln		CAD			
+Archive compression	map		video-game-data			Halo, Combat Evolved, Doom 3
+ARJ compressed file	arj		archive, compression	binary		
+Art of Illusion Model	aoi		3d-graphics			
+ArtCAM model	art		CAD			
+ArtCAM Relief	rlf		CAD			
+ASCII Drawing Interchange file format	dxf		CAD			
+ASCII nebo Unicode plaintext Text file	txt		document			
+ASCII point of interest (POI) text file	asc		gis			
+ASCII text	asc		document			
+ASCII-coded binary format for memory dumps	hex		EDA			
+ASF Container	asf	Enables any form of compression to be used. MPEG-4 is common. Video in ASF-containers is also called Windows Media Video (WMV))	video			
+Ashlar-Vellum Argon 3D Modeling	ar		CAD			
+Ashlar-Vellum Cobalt	co	parametric drafting and 3D modeling	CAD			
+Ashlar-Vellum Graphite	vc6	For 2D and 3D drafting	CAD			
+Ashlar-Vellum Vellum Solids	vs		CAD			
+Ashlar-Vellum Vellum, Vellum 2D, Vellum Draft, Vellum 3D, DrawingBoard	vlm		CAD			
+Ashlar-Vellum Xenon	xe	For Associative 3D Modeling	CAD			
+ASP	asp	Microsoft Active Server Page	webpage, dynamically generated			
+ASPX	aspx	Microsoft Active Server Page. NET	webpage, dynamically generated			
+Assembly language source	asm, s		code			
+Assisted contact lists file format	xmc, xml	Assisted contact lists file format, based on xml and used in kindergartens and schools	web			
+Atari Jaguar	jag,j64		video-game-storage-media			
+Atari ST/Amstrad CPC YM2149 sound chip format	ym		other-music			
+Atom	atom, xml	Another syndication file format	markup-language			
+AU	au		music, sound, lossless, uncompressed			
+Audacity project file	aup		other-music			
+Audacity project file	aup		audio-editing, music-production			
+Audio Interchange File Format	aif, aifc, aiff		music, sound, lossless, uncompressed			
+Audio Stream	ast		music, sound, lossless, compressed			
+AutoCAD and Open Design Alliance applications, Autodesk Inventor Drawing file	dwg		CAD			
+Autodesk 3D Studio Max file	max		3d-graphics			
+Autodesk FBX	fbx		3d-graphics			
+Autodesk Inventor Assembly file	iam		CAD			
+Autodesk Inventor Drawing file	idw		CAD			
+Autodesk Inventor Part file	ipt		CAD			
+Autodesk Inventor Presentation file	ipn		CAD			
+Autodesk Maya ASCII File	ma		3d-graphics			
+Autodesk Maya Binary File	mb		3d-graphics			
+Autodesk Revit family files	rfa		CAD			
+Autodesk Revit project files	rvt		CAD			
+Autodesk's Web Design Format; AutoCAD & Revit can publish to this format; similar in concept to PDF files; Autodesk Design Review is the reader	dwf		CAD			
+AutoHotkey script file	ahk		script			
+AutoIt version 3	au3		script			
+AVEVA PDMS 3D Review model	rvm 		CAD			
+AVI container	avi	A shell, which enables any form of compression to be used	video			
+Axcrypt encrypted file	axx	Generated with Axcrypt	security, encryption			
+AXD	axd	Cookie extensions found in temporary internet folder	web			
+B file	b	Similar to .a, but a little less compressed…	archive, compression	binary		
+Backup Format	bak, bk	Various types. E.g.: Copies of data files, application-specific data backup formats, general file backup programs		binary		
+BackupEarth.com Data compression	.bke		archive, compression	binary		
+BASIC	bas		code			
+BASIC-PLUS	bas		code			
+BASIC-PLUS COMPILE	bac	An executable image for the RSTS/E system, created using the BASIC-PLUS COMPILE command	executable-files			
+Batch file	bat		script			
+Batch file	cmd		script			
+BCI2000 project	bci2000	Albany, NY, USA.	biomedical-signals			
+BGM for Creatures game series	mng	Starting from Creatures 2	other-music			
+BibTeX	bib		bibliographic-information			
+big	big	Special file compression format used by Electronic Arts for compressing the data for many of EA's games	archive, compression	binary		
+BIN	bin	compressed Archive. can be read and used by cd-roms and java, Extractable by 7-zip and WINRAR	archive, compression	binary		
+Binarized file	pbo	Used for compiled models	video-game-data			Real Virtuality Engine, Flashpoint, ARMA 2, VBS2
+Binary compressed SAM format	bam		biology, molecular-biology			
+Binary compressed VCF format	bcf		biology, molecular-biology			
+Binary Data	bin	Often memory dumps of executable code or data to be re-used by the same software that originated it		binary		
+Binary Data Format	bdf	 raw data from recovered blocks of unallocated space on a hard drive	web			
+Binary Revolution Stream	brstm		music, sound, lossless, compressed			
+Binary space partitioning	bsp	compiled map format	video-game-data			Quake Engine
+Binary Universal Form for the Representation of meteorological data	bufr	WMO format for weather observation data	meteorology		https://en.wikipedia.org/wiki/BUFR	
+Bink Video file	bik	A video compression system developed by RAD Game Tools	archive, compression	binary		
+BioSemi data format	bdf	From BioSemi B.V. Amsterdam, Netherlands.	biomedical-signals			
+BioSemi data format	bdf	Similar to EDF but 24bit	signal-data			
+Bitmap Distribution Format	bdf		font			
+Bitmapped Font	fon	Microsoft Windows	font			
+Bitmapped Font 	fnt	Graphical Environment Manager	font			
+Bitser encrypted password file	bpw		password-files			Bitser password manager
+BKF	bkf	Microsoft backup created by NTBACKUP.EXE	archive, compression	binary		
+Blender	blend		3d-graphics			
+Blender encrypted blend files	block		3d-graphics			
+BlindWrite 5/6 image file	b6t		physical, recordable media, archiving	binary		
+Blitz3D	bb		code			
+Blitz3D Model	b3d		3d-graphics			
+BlitzMax	bmx		code			
+Blizzard Entertainment proprietary texture format	blp		raster-graphics			
+Blizzard Entertainment's own model format	mdx		3d-graphics			
+BML	bml	Better Markup Language (templating)	webpage, dynamically generated			
+Board file	brd	Board file for EAGLE Layout Editor, a commercial PCB design tool	EDA			
+Borland InterBase Databases	gdb		database			
+BRL-CAD geometry	g		3d-graphics			
+BRL-CAD Geometry File	g		CAD			
+BRL-CAD Geometry File (old ASCII format)	asc		CAD			
+Broadcast Wave Format	bwf	An extension of WAVE	music, sound, lossless, uncompressed			
+Broadvision Quicksilver document	ildoc		desktop-publishing			
+Browser extensible display format	bed	Describing genes and other features of DNA sequences	biology, molecular-biology			
+BS Description language	bsdl	Description language for testing through JTAG	EDA			
+buildingSMART for sharing AEC and FM data	ifc		CAD			
+bundled SQL queries	sql		database			
+ByteMap Font Format	bmf		font			
+bzip2	bz2		archive, compression	binary		
+C source	c		code			
+C/C++ header file	h		code			
+C# project (Visual Studio .NET)	csproj		code			
+C# source	cs		code			
+C++ header file	hpp, hxx		code			
+C++ source	cpp, cc, cxx, c, cbp		code			
+Cab	cab	A cabinet file is a library of compressed files stored as a single file. Cabinet files are used to organize installation files that are copied to the user's system.	archive, compression	binary		
+Cache format	uxx	These are files that client downloaded from server (which can be converted to regular formats)	video-game-data			Unreal Engine
+Caddie Early version of Caddie drawing	drw	Prior to Caddie changing to DWG	CAD			
+CadStd	cad		CAD			
+Cakewalk Sonar project file	cwp		audio-editing, music-production			
+Cal3D	cal3d		3d-graphics			
+Caligari Object	cob		3d-graphics			
+Canon camera raw format	cr2	 Photos will have this format on some Canon cameras if the quality "RAW" is selected in camera settings.	raster-graphics			
+Cartridge images	crt		video-game-storage-media			Commodore 64
+Cascading Style Sheets	css		page-description-language			
+cascading style sheets	css			text		
+CATIA V4 part document	model		CAD			
+CATIA V5 Assembly document	catproduct	CATProduct	CAD			
+CATIA V5 Drawing document	catdrawing	CATDrawing	CAD			
+CATIA V5 graphic representation file	cgr		CAD			
+CATIA V5 Manufacturing document	catprocess	CATProcess	CAD			
+CATIA V5 Part document	catpart	CATPart	CAD			
+CD Box Labeler Pro	cbp		web			
+CDDA	cdda		music, sound, lossless, uncompressed			
+CDRWrite image file	cue		physical, recordable media, archiving	binary		
+CentraBuilder	cbp					
+CFD General Notation System	cgns		multi-domain			
+CFM	cfm	ColdFusion	webpage, dynamically generated			
+CGI	cgi		webpage, dynamically generated			
+Chart Data File Format	cfwb	From ADInstruments Pty Ltd, Bella Vista NSW, Australia.	biomedical-signals			
+Chart Data File Format	cfwb	From ADInstruments	signal-data			
+Chasys Draw IES image	cd5		raster-graphics			
+Cheetah 3D file	jas		3d-graphics			
+Chemical Markup Language	cml		chemistry			
+Chemical table file (CTab)	mol, sd, sdf		chemistry			
+Chicken	egg		script			
+Cinema 4D	c4d		3d-graphics			
+ClarisWorks / AppleWorks document	cwk		document			
+CLIPFLAIR	clipflair, clipflair.zip	ClipFlair Studio component saved state file (contains component options in XML, extra/attached files and nested components' state in child .clipflair.zip files – activities are also components and can be nested at any depth)	archive, compression	binary		
+Clojure source code	clj		code			
+ClojureScript	cljs		script			
+CloneCD image file	ccd, sub, img		physical, recordable media, archiving	binary		
+COBOL source	cob, cbl		code			
+Code::Blocks Project File	cbp					
+CoffeeScript	coffee		script			
+COLLADA	dae		3d-graphics			
+Color Chat 1.0	ccf		document			
+Color profile conforming the specification of the ICC.	icc/icm		color-management			
+Comma Separated Values	csv	ASCII text as comma-separated values, used in spreadsheets and database management systems	document			
+Comma-Separated Values	csv		spreadsheet			
+Comma-separated values	csv		tabulated-data			
+Commands	com	Commands used in DOS	executable-files			
+Commodore-Amiga 16-bit sound	16svx	Usually in an IFF container	music, sound, lossless, uncompressed			
+Commodore-Amiga 8-bit sound	8svx	Usually in an IFF container	music, sound, lossless, uncompressed			
+Common Assembly Format	caf	Common assembly format for sequence assembly	biology, molecular-biology			
+Common Biometric Format	cbf	Based upon CBEFF 2.0 (Common Biometric Exchange Formats Framework).	biometric-formats			
+Common Data Format	cdf		multi-domain			
+Common Lisp source	lisp		code			
+Compact Pro (Macintosh)	cpt, sea		archive, compression	binary		
+Compiled Microsoft Database	accde	Microsoft Office Access 2007 and later	database			
+Compiled Microsoft Database (Access)	mde		database			
+Compressed disk image	daa	Closed-format, Windows-only	archive, compression	binary		
+Compressed file	pxz	Exchange media elements with PSALMO	web			
+Compressed File Library	cfl		3d-graphics			
+Computer Graphics Metafile	cgm	ISO Standard	vector-graphics			
+Configuration file	cfg	For Comtrade data	signal-data			
+Configuration file	cnf, conf, cfg	substantially software-specific		text		
+Conlab Project	cbp					
+Construction campaignes files.	constructioncampaign.gbx		video-game-data, trackmania			TrackMania
+Cool Edit Loop	cel	Adobe Audition loop file	audio-editing, music-production			
+Copies of ZX Spectrum games	tzx		video-game-storage-media			ZX Spectrum
+Copy-on-write	cow		virtual-machine, qemu			
+CopyCAD Curves	ccc		CAD			
+CopyCAD Model	ccm		CAD			
+CopyCAD Session	ccs		CAD			
+Corel Paradox database management	pdx		database			
+Corel Photo-Paint	cpt		desktop-publishing			
+Corel PHOTO-PAINT image	cpt		raster-graphics			
+Corel Presentations slide show creation	shw		presentation			
+CorelDRAW	cdr		desktop-publishing			
+CorelDRAW Document	cdr		vector-graphics			
+CorelDRAW vector image	cmx		vector-graphics			
+Coreona 3D Coreona 3D Virtual File	core3d		3d-graphics			
+CRDOWNLOAD	crdownload	Partially completed downloads in Google Chrome	partial-file, incomplete-transfer			Google Chrome
+Creative Labs Soundblaster Creative Voice	voc	8-bit and 16-bit	audio, music, sound, lossy			
+CredX Dat File	credx		web			
+Crystal Reports	rpt		document			
+Cursor file	cur		cursors			
+Custom sound file format	cust		other-music			DeliPlayer
+D source	d		code			
+DarkBASIC Professional project	dbpro123		code			
+DarkBASIC source	dba		code			
+Dassault Systemes graphic representation	3dxml	Dassault Systemes graphic representation	CAD			
+DAT	dat	MPEG-1 is found in a dat file on a video CD	physical, recordable media, archiving	binary		
+Data	dat	Not specific file type, often generic extension for "data" files for a variety of applications. Sometimes used for general data contained within the .PK3/PK4 files	video-game-data			
+Data Design System DDS-CAD	bin, bim		CAD			
+Data File	dat	Usually proprietary to the program that created it		binary		
+Data Image	dmg	An Apple compressed/encrypted format	archive, compression	binary		
+Data Interchange Format	dif	Accessible by many spreadsheet applications	tabulated-data			
+Data storage	pak, pk2		video-game-data			Quake Engine
+Data storage	grp		video-game-data			Duke Nukem 3D Engine
+Data storage	img	Used by Renderware-based Grand Theft Auto games 	video-game-data			
+Data storage (contains music, maps, and textures)	wad		video-game-data			DOOM
+Databank format	db	Accessible by many econometric applications	tabulated-data			
+DataCAD drawing format[3]	aec		CAD			
+Dataton Watchout Presentation	watch		presentation			
+Day Dreamer Z	ddz	Can only be used by the "daydreamer engine" created by "fever-dreamer", a program similar to RAGS. It's mainly used to make somewhat short games	archive, compression	binary		
+db, clipper, Microsoft FoxPro, harbour and Xbase	prg		code			
+db/dbase II,III,IV and V, Clipper, Harbour/xHarbour, Fox/FoxPro, Oracle	dbf		database			
+Debian install package	deb		archive, compression	binary		
+deepMesh	dpm		3d-graphics			
+DeHackEd files to mutate the game executable (not officially part of the DOOM engine)	deh		video-game-data			DOOM
+Delcam Geometry	dgk		CAD			
+Delcam Machining Triangles	dmt		CAD			
+Delphi compiled unit	dcu		executable-files			
+Deluxe Paint image file	lbm		raster-graphics			
+Design database format with APIs	openaccess		EDA			
+Desktop entry on Linux Desktop environments	desktop		links-and-shortcuts			
+Detailed Standard Parasitic Format	dspf	Analog-level parasitics of interconnections in IC design	EDA			
+Device independent file format	dvi		page-description-language		https://en.wikipedia.org/wiki/Device_independent_file_format	
+Device-Independent Bitmap graphic	dib		raster-graphics			
+Dialogic ADPCM Low Sample Rate Digitized Voice	vox		audio, music, sound, lossy			
+DiamondWare Digitized	dwd		audio, music, sound, lossy			
+Dicom Waveform Data	dicom	An extension of Dicom for storing waveform data	biomedical-signals			
+diff	diff	Text file differences created by the program diff and applied as updates by patch	partial-file	text		
+Digital Anchor data file	daf		database			
+Digital Exchange Format	dxf	Drawing Interchange file Format, used in AutoCAD and other CAD-programs	vector-graphics	text		
+Digital Imaging and Communications in Medicine 	dicom, dcm		biomedical-imaging			
+Digital Publishing E	dpe	Package of AVE documents made with Aquafadas digital publishing tools.	archive, compression	binary		
+Digital SIGnal Interchange Format	sigif	Application in neurophysiology.	biomedical-signals			
+Digital Terrain Elevation Data	dted		gis			
+Digital Theater Systems	dts, dtshd, dtsma		music, sound, lossless, compressed			
+DirectX 3D Model	x		3d-graphics			
+DirectX texture file	dds		raster-graphics			
+DiscJuggler image file	cdi		physical, recordable media, archiving	binary		
+Disk	dsk	For archiving floppy disks from a number of other platforms, including the ZX Spectrum and Amstrad CPC.	physical, recordable media, archiving	binary		
+Disk 64	d64	An archive of a Commodore 64 floppy disk.	physical, recordable media, archiving	binary		
+Disk images	dsk		video-game-storage-media			ZX Spectrum
+Disk images	d64		video-game-storage-media			Commodore 64
+Disk Masher System	dms	A disk-archiving system native to the Amiga.	physical, recordable media, archiving	binary		
+Disk Masher System	dms	Previously used as a disk-archiving system native to the Amiga. Also supported by emulators.	video-game-storage-media			Amiga
+Disk storage images	dsk			binary		
+Distinguished Encoding Rules	cer, crt, der	stores certificates	security			
+DjVu for scanned documents	djvu		raster-graphics			
+DNS zone file	zone		web	text		
+DocBook XML sub-format	dbk		document			
+Dolphin	dol	The file format used by the Gamecube and Wii. Short for Dolphin - the codename of the Gamecube.	executable-files			
+Doom³ archive	pk4	Opens similarly to a zip archive	archive, compression	binary		
+DOS Basic	dat		database			
+DOS executable	exe		executable-files			
+Dr. Halo image file	cut		raster-graphics			
+Drawing	art	Superseded by xar	scene-description-language			Xara
+Drawing	xar		scene-description-language			Xara
+Drawing Express file format	exp		CAD			
+DSH	dsh		video			
+DuupeCheck project file	dupx	Database management tool 	web			
+Dynamically Linked Library	dll	Used in Microsoft Windows and some other systems	executable-files			
+E2D	e2d	2-dimensional vector graphics used by the editor which is included in JFire	vector-graphics			
+Easy CD Creator format	cif		physical, recordable media, archiving	binary		
+ECAB	ecab, ezip	EGT Compressed Folder used in advanced systems to compress entire system folders, replaced by EGT Universal Document	archive, compression	binary		
+eDrawings drawing file	edrw		CAD			
+eDrawings part file	eprt		CAD			
+EEG data format	bkr	Developed at the University of Technology Graz, Austria.	biomedical-signals			
+EEG data format	bkr	Developed at the University of Technology Graz	signal-data			
+egg	egg	Alzip Egg Edition compressed file	archive, compression	binary		
+EGT	egt	EGT Universal Document also used to create compressed cabinet files replaces .ecab	archive, compression	binary		
+EGT Asterisk Application Source File	egt		script			
+EGT Asterisk Source File	egt	Could be J, C#, VB.net, EF 2.0 (EGT Forever)	code			
+EGT Forever Source File	efs		code			
+EGT SmartSense	ess	 A database of files and its compression style. Specific to EGT SmartSense	database			
+EGT Universal Document	egt		script			
+EGT Universal Document	egt	Used to compress SQL databases to smaller files, may contain original EGT database style.	database			
+EGT Universal Document	egt		document			
+EGT Universal Document	egt	Used in EGT SmartSense to compress PNG files to yet a smaller file	raster-graphics			
+EGT Universal Document	egt	EGT Vector Draw images are used to draw vector to a website	vector-graphics			
+Eiffel source	e		code			
+Electric Image	fact, fac		3d-graphics			
+Electrocardiogram Markup Language	ecgml	A markup language for electrocardiogram data acquisition and analysis.	biomedical-signals			
+Emacs Lisp source	el		code			
+Embedded Ruby	erb	Ruby on Rails Script File	script			
+EML	eml	File format used by several desktop email clients	markup-language			
+Encapsulated Postscript	eps		vector-graphics			
+Encrypted Email Attachment	eea	An encrypted CAB, ostensibly for protecting email attachments	security, encryption			
+EndNote	enl		bibliographic-information			
+Enhanced .arc archive	pak		archive, compression	binary		
+Enhanced (Windows) MetaFile	emf	An extension to WMF	scene-description-language			
+Enterprise Architect Project	eap		database			
+EPUB open standard for e-books	epub		document			
+EsCAD pcb	escpcb	Data file by Electro-System from Japan	CAD			
+EsCAD sch	escsch	Data file by Electro-System from Japan	CAD			
+ESRI ArcGIS project file	mxd	8.0 and higher	gis			
+ESRI ArcView 	apr	3.3 and earlier project file	gis			
+ESRI shapefile	shp		gis			
+ESS	ess	EGT SmartSense File, detects files compressed using the EGT compression system.	archive, compression	binary		
+European data format	edf		signal-data			
+European Data Format.	edf, edf+		biomedical-signals			
+European Molecular Biology Laboratory Format	embl	The flatfile format used by the EMBL to represent database records for nucleotide and peptide sequences from EMBL databases	biology, molecular-biology			
+Excellon file	excellon		CAD			
+Exchangeable image file format	exif	Exchangeable image file format (Exif) is a specification for the image file format used by digital cameras	raster-graphics			
+Executable and Linkable Format 	elf	No suffix for executable image, .o for object files, .so for shared object files. Used in many modern Unix and Unix-like systems, including Solaris, other System V Release 4 derivatives, Linux, and BSD)	executable-files			
+Executable Image	out	No suffix for executable image, .o for object files, .so for shared object files, classic UNIX object format, now often superseded by ELF	executable-files			
+Expander	expander	 (see bundle)	executable-files			
+Extended Biometric Format	ebf	Based on CBF but with S/MIME encryption support and semantic extensions	biometric-formats			
+Extensible 3D	x3d		3d-graphics			
+eXtensible Data Format	xdf		biomedical-signals			
+eXtensible Hyper-Text Markup Language	xhtml, xht		document			
+Extensible LADAR Format	xlf		web			
+eXtensible Markup Language	xml		document			
+Extensible Markup Language	xml			text		
+Famicom Disk System	fds		video-game-storage-media			
+Fasta Nucleic Acid	fasta, fna, faa	The FASTA file format, for sequence data. Sometimes also given as FNA or FAA (Fasta Nucleic Acid or Fasta Amino Acid).	biology, molecular-biology			
+FCEUX Save States	fc, fc#		video-game-storage-media			
+FeatureCAM Part File	fm		CAD			
+Fielded Text	ftx	Declared	document			
+Fielded Text Meta	ftm		document			
+File archives	gcf	Used by the Steam content management system	video-game-data			
+File Exchange Format	fef	File exchange format for Vital signs, CEN TS 14271.	biomedical-signals			
+File Exchange Format	fef	For Vital signs	signal-data			
+File Shortcut	lnk	Binary-format file shortcut in Microsoft Windows 95 and later	links-and-shortcuts			
+File shortcut format used by ClickOnce	appref-ms		links-and-shortcuts			
+FileMaker Pro	fp, fp3, fp5, and fp7		database			
+Final Cut Pro project file	fcp		video-editing			
+Final Draft	fdx		document			
+Finale Notation File	mus		other-music			Finale
+Firebird Databases	fdb		database			
+Flash video	flv	Encoded to run in a flash animation	video			
+Flexible Image Transport System	fits	Standard data format for astronomy	scientific-data-exchange			
+FlexiPro file	fs		vector-graphics			
+flight tracks format	igc	Flight tracks downloaded from GPS devices in the FAI's prescribed format	web			
+Font Data	fontdat	A .dat file used for formatting game fonts	video-game-data			
+Font Description resource	fond	Mac OS	font			
+FontForge spline font database Font	sfd		font			
+Format for PCB and layout of integrated circuits	gdsii		EDA			
+Format of Physiobank	wfdb		biomedical-signals			
+FormZ Project file	fmz		CAD			
+Forth source	fth		code			
+Fortran source	for, ftn, f, f77, f90		code			
+FotoInsight Designer	mcf		desktop-publishing			
+Free Lossless Audio Codec	flac	Free lossless codec of the Ogg project	music, sound, lossless, compressed			
+FreeBASIC	bas		code			
+FreeMind mind map file	mm, xml		gio			
+Fruity Loops Project file	flp		audio-editing, music-production			
+Full-Metadata Format	fmf		multi-domain			
+Galaxkey	gxk	An encryption platform for authorized, private and confidential email communication	security			
+Game Boy	gb	Applies to the original Game Boy and the Game Boy Color	video-game-storage-media			
+Game Boy Advance	gba		video-game-storage-media			
+Game Boy Advance Saved Data Files	sav		video-game-storage-media			
+Game Boy Color	gbc		video-game-storage-media			
+Game Maker Editable file as of version 6.x	gm6		code			
+Game Maker Editable file as of version 7.0	gmk		code			
+Game Maker Editable file up to version 5.x	gmd		code			
+Game Maker Extension Editable file as of version 7.0	ged		code			
+Game Maker Language script file	gml		code			
+Game plugins	dat, sc4lot, sc4model		video-game-data			Simcity 4, DBPF
+Gamebryo NetImmerse File	nif		3d-graphics			
+GameCube	gcm		video-game-storage-media			
+GarageBand project file	band		audio-editing, music-production			
+Gate-level layout	def		EDA			
+GDF v1.x	gdf	The General Data Format for biomedical signals	biomedical-signals			
+GDF v2.x	gdf	The General Data Format for biomedical signals	biomedical-signals			
+GenBank Format	genbank	The flatfile format used by the NCBI to represent database records for nucleotide and peptide sequences from the GenBank and RefSeq databases	biology, molecular-biology			
+Gene transfer format	gtf	The Gene transfer format is used to hold information about gene structure.	biology, molecular-biology			
+GEnealogical Data COMmunication	gedcom, ged	File format for exchanging genealogical data between different genealogy software	web			
+General data formats	gdf	For biomedical signals	signal-data			
+General editing	sqf		video-game-data			Real Virtuality Engine, Flashpoint, ARMA 2, VBS2
+General feature format	gff	The General feature format is used for describing genes and other features of DNA, RNA and protein sequences	biology, molecular-biology			
+General term for minimally processed image data	raw	Accquired by a digital camera	raster-graphics			
+Gentoo linux's portage package.	ebuild		script			
+Geographically located raster data	geotiff		gis			
+Geographically located raster data	worldtiff	Text file giving corner coordinate, raster cells per unit, and rotation	gis			
+Geography Markup Language file	gml		gis			
+Gerber file	gbr		CAD			
+Gerber file	gbr		vector-graphics			
+Gesture And Motion Signal format	gms		signal-data			
+GHO	gho, ghs	Norton Ghost	archive, compression	binary		
+Ghoul Mesh	glm		3d-graphics			
+GIMP image	xcf	From Gimp's origin at the eXperimental Computing Facility of the University of California	raster-graphics			
+GIMP Palette	gpl	Using a textual representation of color names and RGB values	raster-graphics	text		
+GIMP palette file	gpl		color-palettes			
+GNU recutils database	rec		database			
+GNU Zip	gz, gzip	Compressed file	archive, compression	binary		
+Gnumeric spreadsheet, a gziped XML file	gnumeric		spreadsheet			
+Go source	go		code			
+Google Drive Document	gdoc		document			
+Google Drive Drawing	gdraw		desktop-publishing			
+Google Drive Fusion Table	gtable		database			
+Google Drive Presentation	gslides		presentation			
+Google Drive Spreadsheet	gsheet		spreadsheet			
+Google Sketchup Backup File	skb		archive, compression	binary		
+Google Sketchup file	skp		3d-graphics			
+GRAITEC Advance file format	gtc		CAD			
+graph6	g6	ASCII encoding of Adjacency matrices	mathematics	text		
+Graphical Analysis 3	ga3		web			
+Graphics Interchange Format	gif		archive, compression	binary		
+Graphics Interchange Format	gif	CompuServe's Graphics Interchange Format	raster-graphics			
+Greenstreet Publisher, GST PressWorks	dtp		desktop-publishing			
+Grid In Binary	grib	WMO format for weather model data	meteorology			
+GSM	gsm	GSM Full Rate, originally developed for use in mobile phones	audio, music, sound, lossy			
+GZip-compressed version of the above.	adz		video-game-storage-media			Amiga
+Gzipped Tar	.tar.gz, .tgz	Gzipped tar file	archive, compression	binary		
+Haansoft (Hancom) Hangul Word Processor document	hwp		document			
+Haansoft (Hancom) Hangul Word Processor Markup Language document	hwpml		document			
+Haansoft(Hancom) Presentation software document	show		presentation			
+Haansoft(Hancom) SpreadSheet software document	cell		spreadsheet			
+Harwell-Boeing file format		a format designed to store sparse matrices	mathematical			
+Haskell source	hs		code			
+Hawk's Dock configuration file	smes		cursors			
+HDi playlist	xpl		playlists			
+HE games File	he0, he2, he4		video-game-data			
+Health Level 7	hl7	a framework for exchange, integration, sharing, and retrieval of health information electronically	biomedical			
+Health Level 7 v3 annotated ECG.	hl7aecg		biomedical-signals			
+Hierarchical Data Format	hdr, hdf, h4, h5		multi-domain			
+High resolution, compressed Degas picture file	pc3		raster-graphics			
+High resolution, uncompressed Degas picture file	pi3		raster-graphics			
+HITRAN	hit	Spectroscopic data with one optical/infrared transition per line in the ASCII file	scientific-data-exchange	text		
+HTML	html, htm	HyperText Markup Language	webpage, static			
+HTML Application	hta		script			
+hyper text markup language	html			text		
+HyperText Markup Language	html, htm		document			
+I-DEAS I-DEAS	unv	Integrated Design and Engineering Analysis Software	CAD			
+IC Description language	cdl	Transistor-level netlist format for IC design	EDA			
+Icarus script	ibi		script			
+ICI	ici		script			
+Icon	ico	A file format originally used for icons in Microsoft Windows. Contains small bitmap images at multiple resolutions and sizes.	raster-graphics			
+Icons	icns	File format used for icons in Mac OS X. Contains bitmap images at multiple resolutions and bitdepths with alpha channel.	raster-graphics			
+IDL	pro		code			
+iHTML	ihtml	Inline HTML	webpage, dynamically generated			
+ILBM	iff, ilbm, lbm		raster-graphics			
+Image	img	For archiving MS-DOS formatted floppy disks, larger optical media and Hard Disk Drives.	physical, recordable media, archiving	binary		
+Image-Line's Drumaxx drum kit file	dmkit		audio-editing, music-production			
+ImageMagick's native file format	miff		raster-graphics			
+Imagine	iob	3D modeling software	3d-graphics			
+iMovie project file	imovieproj		video-editing			
+Impulse Tracker module	it	Adding compressed samples, note-release actions, and more effects including a resonant filter	other-music			
+INF	inf	Similar file format to INI file; used to install device drivers under Windows, inter alia.	web			
+INI file pointing to a URL bookmarks/Internet shortcut in Microsoft Windows	url		links-and-shortcuts			
+Init File	ini	Configuration file whose format is substantially similar between applications		text		
+Initial Graphics Exchange Specification	iges		CAD			
+Installation File	cia		video-game-storage-media			
+intelliRock Sensor Data File Format	irock		signal-data			
+Interactive Financial Exchange	ifx	XML-based specification for various forms of financial transactions	financial-data-transfer			
+Intergraph is a monochrome bitmap format	cit		raster-graphics			
+Intergraph's Intergraph Standard File Formats			CAD			
+Intersystems Caché database file	dat		database			
+iPod Game	ipg	Format in which Apple Inc. packages their iPod games. can be extracted through Winrar	archive, compression	binary		
+IPython Notebook	ipynb		script			
+IronCAD 2D CAD file	icd		CAD			
+ISO	iso	The generic file format for most optical media, including CD-ROM, DVD-ROM, Blu-ray Disc, HD DVD and UMD.	physical, recordable media, archiving	binary		
+ISO 12234-2	tif, tiff	Tends to be used as a basis for other formats rather than in its own right.	raster-graphics			
+Itcl	itcl		script			
+Item File	itm		video-game-data			Diablo Engine
+J script	ijs		script			
+JAM Message Base Format 	jam	Message Base Format for BBSes	web			
+Jam music format	jam		other-music			
+Java Archive	jar	ZIP file with manifest for use with Java applications.	archive, compression	binary		
+Java Archive	jar	Archives of Java class files	executable-files			
+Java Class File	class		executable-files			
+Java enterprise application archive	ear		executable-files			
+Java Network Launching Protocol	jnlp	An XML file used by Java Web Start for starting Java applets over the Internet	links-and-shortcuts			
+Java Server Pages	jsp		webpage, dynamically generated			
+Java source	java		code			
+JavaScript	js		script			
+JavsScript Object Notation	json	An openly used data file format used by many languages. Subset of YAML		text		
+JEDMICS image files	c4	A DOD system	archive, compression	binary		
+JEDMICS image files	cals	A DOD system	archive, compression	binary		
+Jnes Save States	jst		video-game-storage-media			
+Joint Committee on Atomic and Molecular Physical Data	jcamp, dx, jdx		chemistry			
+Joint Photographic Experts Group	jpg, jpeg, jfif	Lossy image format widely used to display photographic images.	raster-graphics			
+JPEG Stereo	jps		raster-graphics			
+JPEG2000	jp2		raster-graphics			
+JScript                      	js		script			
+JSON-LD	jsonld	A JSON-based Serialization for Linked Data	markup-language			
+Jupiter Tesselation	jt	Visualization format	CAD			
+KatzReview's MegaCrammer	kmc	Tests made with MegaCrammer	web			
+Kdenlive project file	kdenlive		video-editing			
+KeePass 1 database	kdb		password-files			
+KeePass 2 database	kdbx		password-files			
+KernelCAD model	glm		CAD			
+Kexi Database Connection Shortcut	kexic	Shortcut to a database connection for a Kexi databases on a server	database			
+Kexi database file	kexi	SQLite-based	database			
+Kexi Database Shortcut	kexis	Shortcut to a Kexi database	database			
+Keyhole Markup Language	kml, xml		gis			
+Krasbit Technologies Encrypted database file	chml	For 1 click integration between contact management software and the chameleon(tm) line of imaging workflow solutions	database			
+Lasso	las, lasso, lassoapp	A file created or served with the Lasso Programming Language	webpage, dynamically generated			
+Lawrence Compiler Type file	lawrence, lbr		archive, compression	binary		
+LBR Library file 	lqr	Compressed by the SQ program.	archive, compression	binary		
+Legacy 3D Studio Model	3ds		3d-graphics			
+Lempel, Ziv, Huffman	lzh	Lempel, Ziv, Huffman	archive, compression	binary		
+Levels	bol		video-game-data			Poing!PC
+lex source	l		code			
+Library Exchange Format, physical abstract of cells for IC design	lef		EDA			
+Library file	lbr		archive, compression	binary		
+Library modeling (function, timing) format	lib		EDA			
+LibreOffice Base or OpenOffice Base database	odb		database			
+Lightwave Object	lwo		3d-graphics			
+Lightwave Scene	lws		3d-graphics			
+LilyPond Notation file	ly		other-music			GNU LilyPond
+Linear Reference System.	cag		gio			
+Lip-synch for character animations.	lip	Created from WAV files to create in-game accurate lip-synch for character animations.	video-game-data			Real Virtuality Engine, Flashpoint, ARMA 2, VBS2
+Logfiles	log	Usually text, but sometimes binary		text		
+Logic Pro X project file	logic		audio-editing, music-production			
+Logix-4D Manager Show Control Project	slp		presentation			
+Logtalk source	lgt		code			
+Lossless Audio	la		music, sound, lossless, compressed			
+Lostus Ami Pro	ami		document			
+Lotus 1-2-3	123		spreadsheet			
+Lotus 1-2-3	wks		spreadsheet			
+Lotus 1-2-3 up to version 2.01	wk1		spreadsheet			
+Lotus 1-2-3 version 3.0	wk3		spreadsheet			
+Lotus 1-2-3 version 4.0	wk4		spreadsheet			
+Lotus Approach data entry & reports	apr		database			
+Lotus Freelance Graphics	prz		presentation			
+Lotus Notes configuration file	ncf		database			
+Lotus Notes database	nsf		database			
+Lotus Notes database design template	ntf		database			
+Lotus Notes Post Office mail routing database	box		database			
+Lotus Organizer PIM package	org		personal-information-manager			
+Lotus Word Pro	lwp		document			
+Low resolution, compressed Degas picture file	pc1		raster-graphics			
+Low resolution, uncompressed Degas picture file	pi1		raster-graphics			
+LPAC	pac		music, sound, lossless, compressed			
+LSMaker script file	lsm	Program using layered .jpg to create special effects; specifically designed to render lightsabers from the Star Wars universe	web			
+Lua	lua		script			
+Luxology Modo file	lxo	Luxology Modo (software) file	3d-graphics			
+lzip	lz	Compressed file	archive, compression	binary		
+lzma	lzma		archive, compression	binary		
+lzo	lzo		archive, compression	binary		
+LZX algorithm	lzx		archive, compression	binary		
+M3U	m3u		playlists			
+m4 source	m4		code			
+M4V	m4v	File format for videos for iPods and PlayStation Portables developed by Apple	video			
+MacBinary	bin		archive, compression	binary		
+Mach-O	o, dylib, bundle	No suffix for executable image, .o for object files, .dylib and .bundle for shared object files. Mach based systems, notably native format of Mac OS X.	executable-files			
+Macintosh disk image	dmg	 files	physical, recordable media, archiving	binary		
+Macintosh plugin	bundle	A Macintosh plugin created with Xcode or make which holds executable code, data files, and folders for that code.	executable-files			
+Macromedia Flash	fla	For producing	video			
+Macromedia Flash	swf	For viewing	video			
+Macromedia Shockwave Audio	swa	Same compression as MP3 with additional header information specific to Macromedia Director	audio, music, sound, lossy			
+MadTracker 2 module	mt2	It could be resumed as being XM and IT combined with more features like track effects and automation.	other-music			
+MAF	maff	web archive based on ZIP	webpage, static			
+MAGIX Music Maker project file	mmr		audio-editing, music-production			
+Map	map	Usually constructed with BUILD.EXE	video-game-data			Duke Nukem 3D Engine
+Map format	umx		video-game-data			Unreal Engine, Unreal Tournament
+Map format	ut2		video-game-data			Unreal Engine, Unreal Tournament 2003, Unreal Tournament 2004
+Map format	ut3		video-game-data			Unreal Engine, Unreal Tournament 3
+Map format for Unreal	unr		video-game-data			Unreal Engine
+MapInfo Table file format	tab		gis			
+Markdown	md, markdown	Markdown text document	document			
+Markdown	markdown, md	A light-weight, plain-text, easy to read and write markup language.	markup-language			
+Material Exchange Format	mxf	Standardized wrapper format for audio/visual material developed by SMPTE	video			
+Mathematica	m		code			
+Mathematica Notebook	nb		document			
+Mathematica package file	m		script			
+Mathematica Player Notebook	nbp		document			
+Mathematica Player slideshow	nbp		presentation			
+Mathematica Slideshow	nb		presentation			
+MathML	mml	Mathematical Markup Language	mathematical			
+MATLAB	m		code			
+Matroska	mkv	Matroska is a container format, which enables any video format such as MPEG-4 ASP or AVC to be used along with other content such as subtitles and detailed meta information	video			
+Max OS App Container	app	A folder found on Mac OS X systems containing program code and resources, appearing as a single file.	executable-files			
+MBRWizard archive	mbw		archive, compression	binary		
+Mc.META files 	mc.meta	Used in Minecraft Resource Packs	archive, compression	binary		
+MDS	mds	DAEMON tools native disc image file format used for making images from optical CD-ROM, DVD-ROM, HD DVD or Blu-ray Disc. It comes together with MDF file and can be mounted with DAEMON Tools.	physical, recordable media, archiving	binary		
+MDX	mdx	New DAEMON Tools file format that allows to get one MDX disc image file instead of two (MDF and MDS).	physical, recordable media, archiving	binary		
+MediaForge	wrap		video			
+Medical Imaging NetCDF format	minc, mnc	Previously based on NetCDF; since version 2.0, based on HDF5	biomedical-imaging			
+Medical waveform Format Encoding Rules	mfer		biomedical-signals			
+Medical waveform Format Encoding Rules	mfer		signal-data			
+Medium resolution, compressed Degas picture file	pc2		raster-graphics			
+Medium resolution, uncompressed Degas picture file. Also Portrait Innovations encrypted image format.	pi2		raster-graphics			
+Mega Drive/Sega Genesis	smd,bin		video-game-storage-media			
+Melody Modules	mod	Also Soundtracker and Protracker sample	other-music			
+Menu parts.	controleffectmaster.gbx, controlstyle.gbx		video-game-data, trackmania			TrackMania
+Meshwork Model	mesh		3d-graphics			
+Metalink	metalink, met	A file format for listing metadata about downloads, such as mirrors, checksums, and other information.	markup-language			
+MHTML	mht, mhtml	Archived HTML, store all data on one web page (text, images, etc.) in one big file	webpage, static			
+MicroGrafx Font	mgf		font			
+Microsoft 3D Manufacturing Format	3mf	Microsoft 3D Manufacturing Format	CAD			
+Microsoft 3D Manufacturing Format	3mf		3d-graphics			
+Microsoft Access database	mdb		database			
+Microsoft Access project	adp	Used for accessing databases on a server	database			
+Microsoft Access Report Snapshot	snp		page-description-language			
+Microsoft Cabinet	cab		archive, compression	binary		
+Microsoft Database	accdb	Microsoft Office Access 2007 and later	database			
+Microsoft Excel binary workbook	xlsb		spreadsheet			
+Microsoft Excel Macro-enabled workbook	xlsm		spreadsheet			
+Microsoft Excel Macro-enabled worksheet template	xltm		spreadsheet			
+Microsoft Excel worksheet backup	xlk		spreadsheet			
+Microsoft Excel worksheet sheet (97–2003)	xls		spreadsheet			
+Microsoft Excel worksheet template	xlt		spreadsheet			
+Microsoft Excel worksheet workspace (version 4.0)	xlw		spreadsheet			
+Microsoft Outlook email communication	pst, ost		personal-information-manager			
+Microsoft Outlook task manager	msg		personal-information-manager			
+Microsoft palette file	pal		color-palettes			
+Microsoft PowerPoint Presentation	ppt		presentation			
+Microsoft PowerPoint Show	pps		presentation			
+Microsoft PowerPoint template	pot		presentation			
+Microsoft PowerPoint theme template	thmx		presentation			
+Microsoft Project	mpp		project-management-software			
+Microsoft Publisher	pub		desktop-publishing			
+Microsoft Schedule+ calendar	sc2		personal-information-manager			
+Microsoft SQL Server Database	mdf		database			
+Microsoft Wave	wav		music, sound, lossless, uncompressed			
+Microsoft Windows Bitmap formatted image	bmp		raster-graphics			
+Microsoft Word document	doc		document			
+Microsoft Word document template	dot		document			
+Microsoft Word for Macintosh	mcw	versions 4.0–5.1	document			
+Microsoft Word macro-enabled document	docm		document			
+Microsoft Works	wks		spreadsheet			
+Microsoft Works Database	wdb		database			
+Microsoft Works document	wps		document			
+Microsoft Works document template	wpt		document			
+Microsoft Works version 6.0	xlr		spreadsheet			
+Microsoft Write document	wri		document			
+MicroStation design file	dgn		CAD			
+MIDI File	mid	Most often just notes and controls but occasionally also sample dumps	other-music			
+MIDI sequence file	sng	Also n-Track Studio project file	audio-editing, music-production			MidiSoft, Korg
+Mind Manager mind map file.	mmp		gio			
+MindGenius Mind Mapping Software file format.	mgmf		gio			
+mIRC Script	mrc		script			
+Misfit Model 3d	mm3d		3d-graphics			
+Mission files	sqm		video-game-data			Real Virtuality Engine, Flashpoint, ARMA 2, VBS2
+MNG using JPEG compression	jng	A single-frame MNG using JPEG compression and possibly an alpha channel.	raster-graphics			
+Mobipocket Document	mobi		document			
+Mobipocket Metadata	mbp	Metadata for Mobipocket documents	document			
+Model for an item used in the game	mdl, md2, md3, md5		video-game-data			Quake Engine
+Monkey's Audio	ape		music, sound, lossless, compressed			
+Monu-CAD	mcd	Monument/Headstone Drawing file	CAD			
+MOVIE.BYU	movie.byu		vector-graphics			
+MP1	mp1		other-music			UltraPlayer
+MPEG	mpeg, mpg, mpe		video			
+MPEG 1 Video	m1v, mpeg-1		video			
+MPEG 2 Video	m2v, mpeg-2		video			
+MPEG Layer 2	mp2		audio, music, sound, lossy			
+MPEG Layer 3	mp3		audio, music, sound, lossy			
+MPEG-4 Part 14	mp4	Most often used for Sony's PlayStation Portable and Apple's iPod	video			
+Mplayer playlist	txt		playlists			
+MPQ Archives	mpq	Used by Blizzard games	archive, compression	binary		
+MS Word AutoCorrect List	acl		document			
+MSN webcam log file	cam		video			
+Multi-Picture Object	mpo	This JPEG standard is used for 3d images, as with the Nintendo 3DS	3d-graphics			
+Multipart PSF	minipsf, psflib		other-music			
+Multiple Network Graphics, the animated version of PNG	mng		raster-graphics			
+Musepack	mpc		audio, music, sound, lossy			
+Musescore compressed file	mscz		other-music			
+Musescore uncompressed file	msc		other-music			
+Music file (usually contained within a WAD file)	mus		video-game-data			DOOM
+Music format	umx		video-game-data			Unreal Engine, Unreal Engine 1
+MusicXML	mxl, xml		other-music			
+My Heritage Family Tree	zed		web			
+MYOB Limited (Mac) File	myob		financial-records			
+MYOB Limited (Windows) File	myo		financial-records			
+MySQL MyISAM table data	myd		database			
+MySQL MyISAM table index	myi		database			
+MySQL table definition	frm		database			
+NASA-Ames	nasa-ames	Simple text format for observation data. First used in aircraft studies of the atmosphere.	meteorology	text		
+National Center for Biotechnology Information Structured ASN.1 format	ncbi asn.1	Structured ASN.1 format used at National Center for Biotechnology Information for DNA and protein data	biology, molecular-biology			
+National Transfer Format file	ntf		gis			
+Navision database file	fdb		database			
+Nemerle source	n		code			
+Neo Geo Pocket	npc		video-game-storage-media			
+NES Sound Format	nsf	Bytecode program to play NES music	other-music			
+NetWare Command File	ncf	Scripting for Novell's NetWare OS)	script			
+NetWare Loadable Module	nlm	The native 32-bit binaries compiled for Novell's NetWare Operating System (versions 3 and newer)	executable-files			
+Network common data format	netcdf		multi-domain			
+Neuroimaging Informatics Technology Initiative	nifti		biomedical-imaging			
+Neuroimaging Informatics Technology Initiative Compressed	nii.gz	Gzip-compressed, used transparently by some software, notably the FMRIB Software Library (FSL)	biomedical-imaging			
+Neuroimaging Informatics Technology Initiative Dual File	.img,.hdr	Dual-file (separate data and meta-data, respectively) style	biomedical-imaging			
+Neuroimaging Informatics Technology Initiative for Brain Surface Data	gii	Single-file (combined data and meta-data) style. NIfTI offspring for brain surface data	biomedical-imaging			
+Neuroimaging Informatics Technology Initiative Single File	nii	Single-file (combined data and meta-data) style	biomedical-imaging			
+Nevercenter Silo Object	sia		3d-graphics			
+Nevercenter Silo Object	sib		3d-graphics			
+New Executable	exe	Used in multitasking ("European") MS-DOS 4.0, 16-bit Microsoft Windows, and OS/2	executable-files			
+New York University	mesh, m		3d-graphics			
+Newick tree format	nwk	The Newick tree format is a way of representing graph-theoretical trees with edge lengths using parentheses and commas and useful to hold phylogenetic trees.	biology, molecular-biology			
+NeXML	nexml, xml	XML format for phylogenetic trees	biology, molecular-biology			
+Nexus file	nexus	The Nexus file encodes mixed information about genetic sequence data in a block structured format.	biology, molecular-biology			
+NI Multisim file	ms12		EDA			
+Nintendo 3DS	3ds		video-game-storage-media			
+Nintendo 64	n64, v64, z64, u64, usa, jap, pal, eur, bin		video-game-storage-media			
+Nintendo DS	nds		video-game-storage-media			
+Nintendo Entertainment System	nes		video-game-storage-media			
+Nokia Theme	nth	Nokia Theme Used by Nokia Series 40 Cellphones	archive, compression	binary		
+Notation Interchange File Format	niff		other-music			
+NRG	nrg	The proprietary optical media archive format used by Nero applications.	physical, recordable media, archiving	binary		
+Nuclear Basic source	nb		code			
+Nullsoft Streaming Video	nsv	Media container designed for streaming video content over the Internet	video			
+NX, Pro/ENGINEER Part, CADKEY Part	prt	NX is also recently known as Unigraphics	CAD			
+Object Control extensions	ocx		object-extensions			
+Object File	o	Unlinked object file directly from the compiler.	executable-files			
+Objective C native static library	a		executable-files			
+Objective-C source	m		code			
+OFF Object file format	off		3d-graphics			
+Office Open XML document	docx		document			
+Office Open XML Presentation	pptx		presentation			
+Office Open XML text document template	dotx		document			
+Office Open XML worksheet sheet	xlsx		spreadsheet			
+Ogg Container Format	ogg		video, container, multimedia			
+OmmWriter text document	omm		document			
+OPDOWNLOAD	opdownload	Partially completed downloads in Opera	partial-file, incomplete-transfer			Opera
+Open Artwork System Interchange Standard	oasis		EDA			
+Open CASCADE 3D model (shape)	brep		CAD			
+Open Educational Resource	oer		web			
+Open Exchange Data Format	openxdf	From Neurotronics, Inc. Gainesville, FL, USA.	biomedical-signals			
+Open Financial Exchange	ofx	open standard supported by CheckFree and Microsoft and partially by Intuit; SGML and later XML based	financial-data-transfer			
+Open Game Engine Exchange (OpenGEX) format	ogex		3d-graphics			
+Open Media Framework Interchange	omfi	OMFI succeeds OMF (Open Media Framework)	audio-editing, music-production			
+Open Spatio-Temporal	ost	Extensible, mainly images with related data, or just pure data; meant as an open alternative for microscope images	scientific-data-exchange			
+Open XML Paper Specification	xps, xml		document			
+Open XML Paper Specification	xps		page-description-language		https://en.wikipedia.org/wiki/Open_XML_Paper_Specification	
+OpenCTM	ctm		3d-graphics			
+OpenDocument Drawing	odg		vector-graphics			
+OpenDocument master document	odm		document			
+OpenDocument Math Formula	odf		mathematical			
+OpenDocument Presentation	odp		presentation			
+OpenDocument Presentation template	otp		presentation			
+OpenDocument spreadsheet	ods		spreadsheet			
+OpenDocument spreadsheet template	ots		spreadsheet			
+OpenDocument text document	odt		document			
+OpenDocument text document template	ott		document			
+OpenNURBS Initiative 3D Model	3dm	Used by Rhinoceros 3D	3d-graphics			
+OpenOffice.org XML (obsolete) Math Formula	sxm		mathematical			
+OpenOffice.org XML (obsolete) Presentation	sxi		presentation			
+OpenOffice.org XML (obsolete) Presentation template	sti		presentation			
+OpenOffice.org XML Drawing	sxd, xml	obsolete	scene-description-language			
+OpenOffice.org XML Spreadsheet	sxc	Obsolete	spreadsheet			
+OpenOffice.org XML Spreadsheet template	stc	Obsolete	spreadsheet			
+OpenOffice.org XML text document	sxw, xml	obsolete	document			
+OpenOffice.org XML text document template	stw, xml	obsolete	document			
+OpenPGP Message Format		Used by Pretty Good Privacy, GNU Privacy Guard, and other OpenPGP software. Can contain keys, signed data, or encrypted data. Can be binary or text ("ASCII armored")	security	binary, text		
+OpenSCAD 3D part model	scad		CAD			
+OpenSSH private key	 ssh	Secure Shell private key; format generated by ssh-keygen or converted from PPK with PuTTYgen	security			
+OpenSSH public key	pub	Secure Shell public key; format generated by ssh-keygen or PuTTYgen	security			
+OpenType Font	otf		font			
+OptimFROG	ofr, ofs, off		music, sound, lossless, compressed			
+Oracle tablespace files sometimes get this extension (also used for configuration files)	ora		database			
+Orienteering Computer Aided Design file	ocd, ocad		CAD			
+Osu! compressed beatmap archive	osz		archive, compression	binary		
+Other TrackMania items.	gbx		video-game-data, trackmania			TrackMania
+OtsLabs Audio File	ots	Similar to MP3, with more data stored in the file and slightly better compression. Designed for use with OtsLabs' OtsAV.	audio, music, sound, lossy			
+Over The Air Bitmap	otb	A specification designed by Nokia for black and white images for mobile phones	raster-graphics			
+Package	dbpf		video-game-data			The Sims 2
+Package format for cooked content	upk		video-game-data			Unreal Engine, Unreal Engine 3
+Paint Shop Pro image	psp		raster-graphics			
+Paint.NET image file	pdn		raster-graphics			
+Palm OS Database	pdb		database			
+Palm OS resource database	prc		database			
+Panda3d	p3d	by Disney	video-game-data			Panda3d
+Panda3D Engine	egg		3d-graphics			
+Papyrus word processor document	pap		document			
+Paradox	db		database			
+Parasolids	x_t		CAD			
+Parasolids binary format	x_b		CAD			
+Parchive	par, par2		archive, compression	binary		
+Parser source	p		code			
+PART	part	partially completed downloads in Mozilla Firefox	partial-file, incomplete-transfer			Mozilla Firefox
+Pascal source (DPR for projects)	pas, pp, p		code			
+PCL	pcl		page-description-language			
+Perl	pl		script			
+Perl	pl, pm		code			
+Perl	pl		webpage, dynamically generated			
+Perl module	pm		script			
+Photo Editing Plugins	8bf	Plugins for some photo editing programs including Adobe Photoshop, Paint Shop Pro, GIMP and Helicon Filter.	executable-files			
+PHP	php, php5, php6, php7		script			
+PHP Hypertext Preprocessor	php, php4, php5, php6, php7, phtml	Previously abbreviated Personal Home Page	webpage, dynamically generated			
+PHP source	php, php3, php4, php5, phps, phtml		code			
+Phred Data	phd	Output from the basecalling software Phred	biology, molecular-biology			
+PICAXE basic	bas		code			
+PIF	pif	Used for running MS-DOS programs under Windows	web			
+PIPE-FLO Professional Piping system design file	pipe		CAD			
+Pivot stickfigure animator	piv		code			
+Pixar Image Computer image file	pxr		raster-graphics			
+Pixel Coordination Format	pcf		raster-graphics			
+Pixel image editor image file	px		raster-graphics			
+Pixelmator image file	pxm		raster-graphics			
+PK3, PK4	pk3, pk4	Store game data, textures etc. Actually just ZIP files.	video-game-data			Quake Engine, Quake 2, Quake 3 Arena, Quake 4
+PKZIP archive	xpi	Can be run by Mozilla web browsers to install software	executable-files			
+Plain text	asc, txt	human-readable plain text, usually no more specific		text		
+PLD	pld		page-description-language			
+PLS	pls		playlists			
+PNG Stereo	pns		raster-graphics			
+POD	pod		video-game-data			Terminal Reality
+Polygon File Format	ply	Also called Stanford Triangle Format	3d-graphics			
+Portable anymap graphic bitmap image	pnm		raster-graphics			
+Portable Application File	paf		archive, compression	binary		
+Portable bitmap	pbm		raster-graphics			
+Portable Compiled Font	pcf		font			
+Portable Database Image	pdi		database			
+Portable Document Archive (PDA) document index file	pdax		document			
+Portable Document Format	pdf		document			
+Portable Document Format	pdf		page-description-language			
+Portable Executable	exe	Used in Microsoft Windows and some other systems	executable-files			
+Portable graymap	pgm		raster-graphics			
+Portable Network Graphic	png	Lossless, recommended for display and edition of graphic images	raster-graphics			
+Portable Pixmap (Pixel Map) image	ppm		raster-graphics			
+Portable Sound Format	psf	PlayStation variant (originally PlayStation Sound Format)	other-music			
+Portable Sound Format for other platforms then PlayStation	2sf, dsf, gsf, psf2, qsf, ssf, usf		other-music			
+Portable SPSS files	por	Readable by PSPP	web			
+Post Processing Format	pp	UK Met Office format for weather model data	meteorology			
+PostScript	ps, ps.gz		page-description-language			
+POV-Ray document	pov		3d-graphics			
+Power Tab Editor tab	ptb		other-music			
+Power-domain specification in SoC implementation	cpf	See also UPF	EDA			
+PowerINSPECT File	pwi		CAD			
+PowerISO format	daa		physical, recordable media, archiving	binary		
+PowerSHAPE Model	psmodel		CAD			
+Preferred Executable Format		Mac OS versions 9 and earlier. Compatible with Mac OS X via the Classic emulator).	executable-files			
+Prezi Desktop Presentation	pez		presentation			
+Printer Font ASCII	pfa		font	text		Adobe
+Printer Font Binary	pfb	Adobe	font	binary		Adobe
+Printer Font Metrics	pfm	Adobe	font			Adobe
+Privacy-enhanced Electronic Mail	pem	Full format not widely used, but often used to store Distinguished Encoding Rules in Base64 format	security			
+Project 64 Save States	pj		video-game-storage-media			
+Project DIVA timings	diva	Element coordinates, MP3 references, notes, animation poses and scores.	video-game-data			
+Protein Data Bank	pdb	Structures of biomolecules deposited in Protein Data Bank. Also used for exchanging protein/nucleic acid structures.	biology, molecular-biology			
+Pseudo-pipeline file		Used to simulate a software pipe	temporary			
+PSF	psf		other-music			
+PTC Creo assembly	asm		3d-graphics			
+PTC Creo part	prt		3d-graphics			
+Public-Key Cryptography Standards 12	p12, pfx	Can store public certificates and private keys	security			
+Public-Key Cryptography Standards 7 SignedData	p7b, p7c	Commonly appears without main data, just certificates or certificate revokation lists (CRLs)	security			
+Public-Key Exchange	pfx	Microsoft predecessor of PKCS#12	security			
+PuTTY private key	ppk	Secure Shell private key in the file format generated by PuTTYgen instead of the format used by OpenSSH	security			
+PYK	pyk	Compressed File	archive, compression	binary		
+Pythagoras File	pyt		CAD			
+Python	py		script			
+Python	pyo		script			
+Python byte code files	pyc		script			
+Python source	py		code			
+QBasic & QuickBASIC	bas		script			
+QCOW2	qcow	QEMU copy-on-write	virtual-machine, qemu			
+QED		QEMU enhanced disk format	virtual-machine, qemu			
+QEMU copy-on-write Qcow	qcow		virtual-machine, qemu			
+QFX		proprietary pay-only file format used only by Intuit	financial-data-transfer			
+Quake 2 model format	md2		3d-graphics			
+Quake 3 archive	pk3	See note on Doom	archive, compression	binary		
+Quake 3 model format	md3		3d-graphics			
+QuarkXPress	qxd		desktop-publishing			
+Quattro Pro DOS version	wq1		spreadsheet			
+Quattro Pro spreadsheet	qpw		spreadsheet			
+Question Object File Format	quox		document			Quobject Designer, Quobject Explorer
+QuickDraw 3D Metafile	3dmf		3d-graphics			
+Quicken Interchange Format	qif	open standard formerly supported by Intuit	financial-data-transfer			
+QuickLink Fax image	qfx		raster-graphics			
+QuickTime Movie Format	mov	container which enables any form of compression to be used; Sorenson codec is the most common; QTCH is the filetype for cached video and audio streams	video			QuickTime
+QW Page NewViews object oriented accounting database	nv2		database			
+R	r	Real Native Application File (short alternative)	webpage, dynamically generated			
+R scripts	r		script			
+R source	r		code			
+Racket source	rkt, rktl		code			
+Radix-64	radix-64		document			
+RAGS game file	rag, rags	A game playable in the RAGS game-engine, a free program which both allows people to create games, and play games, games created have the file format 'RAG game file'	archive, compression	binary		
+RAR Rar Archive	rar	For multiple file archive (rar to .r01-.r99 to s01 and so on)	archive, compression	binary		
+Raw Data	raw			binary		
+Raw data file	dat	For Comtrade data	signal-data			
+Raw map format used by editors like GtkRadiant or QuArK	map		video-game-data			Quake Engine
+Raw Samples	raw	Raw samples without any header or sync	music, sound, lossless, uncompressed			
+RDP connection	rdp		script			
+Reagency Systems easyOFFER document	ezw		document			
+Real Audio Metafile	ram	For RealAudio files only	playlists			RealAudio
+RealAudio	ra, rm		audio, music, sound, lossy			
+RealJukebox Media	rmj		other-music			RealPlayer
+RealMedia	rm		video			
+Realsoft 3D (Real-3D)	r3d		3d-graphics			
+Recorded television format	dvr-ms	On Windows XP Media Center Edition	other-music			Windows Media Center
+Recorded television format	wtv	From Windows Vista on	other-music			Windows Media Center
+Recorded television format	wtv	From Windows Vista on.	video			Windows Media Center
+Red Hat package/installer	rpm	For Fedora, RHEL, and similar systems.	archive, compression	binary		
+Red source	red		code			
+Red/System source	reds		code			
+Reflection seismology data format	seg y		signal-data			
+RenderMan	renderman		vector-graphics			
+RenderWare binary stream	dff	Commonly used by Grand Theft Auto III-era games as well as other RenderWare titles	3d-graphics			
+RenderWare Object	rwx		3d-graphics			
+Replays of races.	replay.gbx		video-game-data, trackmania			TrackMania
+Research Information Systems RIS (file format)	ris		bibliographic-information			
+Resource file for .NET applications	resx		code			
+Resource script files to generate resources for .NET applications	rc, rc2		code			
+Revizto visual information model format	vim		3d-graphics			
+Revoware VIA Document Project File	via		document			
+Rich Text document	rtf		document			
+RISE generated information	rise	File containing RISE generated information model evolution	web			
+RKAU	rka		music, sound, lossless, compressed			
+RNA	rna	Real Native Application File	webpage, dynamically generated			
+RNX	rnx	Real Native Application File (using experimental version 6 of RNA/Karbon Language)	webpage, dynamically generated			
+ROQ	roq		video			Quake 3
+Roxio / WinOnCD format	c2d		physical, recordable media, archiving	binary		
+RSS	rss, xml	Syndication file format	markup-language			
+Ruby	rb		script			
+Ruby source	rb		code			
+S-Record	srec, s19	ASCII-coded format for memory dumps	EDA			
+S1ES learning system Executable	s1es	Executable used for S1ES learning system.	executable-files			
+Sage Retrieve 4GL Common Area (Main and Amended backup)	skb, skc		code			
+Sage Retrieve 4GL data file	rel		database			
+Sage Retrieve 4GL Database	skd		code			
+Sage Retrieve 4GL File Layouts (Main and Amended backup)	skf, skg		code			
+Sage Retrieve 4GL index file	rin		database			
+Sage Retrieve 4GL Instructions	ski		code			
+Sage Retrieve 4GL Menu	skm		code			
+Sage Retrieve 4GL Print Layouts (Main and Amended backup)	skp, skq		code			
+Sage Retrieve 4GL Program	sko		code			
+Sage Retrieve 4GL Report Generator	skk		code			
+Sage Retrieve 4GL Screen Layouts (Main and Amended backup)	sks, skt		code			
+Sage Retrieve 4GL Security File	skz		code			
+SAMI Caption file	smi	HTML like subtitle for movie files	video			
+Samsung video format	svi	For portable players	video			
+Save game	dmo		video-game-data			Duke Nukem 3D Engine
+Save Game	sv		video-game-data			Diablo Engine
+Saved demo recording	lmp		video-game-data			DOOM
+Saved game	dsg		video-game-data			DOOM
+Saved game files	b		video-game-data			Grand Theft Auto
+Saved game.	fidcache.gbx		video-game-data, trackmania			TrackMania
+Savegame format	sav		video-game-data			
+Scala source	scala		code			
+Scalable Vector Graphics, employs XML	svg		vector-graphics			
+ScanSoft PaperPort document	max		raster-graphics			
+Scattering parameter data file	s*p	Touchstone/EEsof Scattering parameter data file multi-port blackbox performance, measurement or simulated	EDA			
+Scenario replays	rep		video-game-data			StarCraft
+Scene data storage	oec		video-game-data			OE-Cake
+Scheme source	scm		code			
+Scifer Archive, Scifer External Archive Type	ba		archive, compression	binary		
+Scilab	sci, sce		code			
+Scitex Continuous Tone image file	sct		raster-graphics			
+Scream Tracker 3 module	s3m	With a few more effects and a dedicated volume column	other-music			
+Scribus	sla, scd		desktop-publishing			
+Seed7 source	sd7		code			
+Sega Game Gear	gg		video-game-storage-media			
+Sega Genesis YM2612 Log File	gym		other-music			
+Sega Master System	sms		video-game-storage-media			
+SEN Scifer Archive	sen	Scifer Internal Archive Type	archive, compression	binary		
+Sequence Alignment/Map format	sam	Sequence Alignment/Map format, in which the results of the 1000 Genomes Project are released.	biology, molecular-biology			
+Sequence assembly format	ace		biology, molecular-biology			
+Serif PagePlus	ppp		desktop-publishing			
+Server Normal Format	snf		font			
+Shared library	so	Typically used for ELF	executable-files			
+Shell script	sh		script			
+Short Read Archive	sra	Format used by the National Center for Biotechnology Information to store high-throughput DNA sequence data	biology, molecular-biology			
+Shorten	shn		music, sound, lossless, compressed			
+Shuttle	se	Lightweight markup language	markup-language			
+Shuttle Document	se		document			
+Sibelius Notation File	sib		other-music			Sibelius
+SIGnal Interchange Format	sigif		signal-data			
+Signed Differential Mapping	sdm	Brain maps and distributions	biomedical-imaging			
+Silicon Graphics Image	sgi, rgb, int, bw		raster-graphics			
+Simple Data Format	sdf	A platform-independent, precision-preserving binary data I/O format capable of handling large, multi-dimensional arrays.	scientific-data-exchange			
+Simplified molecular input line entry specification	smiles, smi		chemistry			
+SketchUp file	skp		web			
+SketchUp Model	skp		CAD			
+Skyscraper Simulator Building	bld		archive, compression	binary		
+Snapshots of the emulator RAM	z80, sna		video-game-storage-media			ZX Spectrum
+Snes9X Save States	frz, 000-008		video-game-storage-media			
+Softimage's dotXSI	dotxsi		CAD			
+Solidedge Assembly, Pro/ENGINEER Assembly	asm		CAD			
+Solidedge Draft	dft		CAD			
+Solidedge Part	par		CAD			
+Solidedge Sheet	psm		CAD			
+SolidWorks 2D drawing	slddrw		CAD			
+SolidWorks 3D part model	sldprt		CAD			
+SolidWorks Assembly Document	sldasm		3d-graphics			
+SolidWorks Assembly drawing	sldasm		CAD			
+SolidWorks eDrawings assembly file	easm		CAD			
+SolidWorks Enterprise PDM Vault File	cex		web			
+SolidWorks Part Document	sldprt		3d-graphics			
+SongShow Plus Slide Show	sspss		presentation			
+Sony camera configuration file	suf	Setup.suf produced by XDCAM-EX camcorders	video-editing			
+Sony Vegas project file	veg, veg-bak		video-editing			
+Sony's UMD Data compression	at3		archive, compression	binary		
+Sound Forge sound file	sfl		audio-editing, music-production			
+Sound format	usx		video-game-data			Unreal Engine, Unreal Engine 1, Unreal Engine 2
+Sound Interface Device	sid	Commodore 64 instructions to play SID music and sound effects	other-music			
+SpaceClaim 3D Part/Assembly	scdoc		CAD			
+sparse6	s6	ASCII encoding of Adjacency matrices	mathematics	text		
+Spectroscopic data	spc		scientific-data-exchange			
+Speex	spx	Ogg project, specialized for voice, low bitrates	audio, music, sound, lossy			
+SPICE Netlist, device-level netlist and commands for simulation	spi, cir		EDA			
+Spin source (for Parallax Propeller microcontrollers)	spin		code			
+Spirit file, by Softtech	s12		CAD			
+SQ compressed files	?q?	files compressed by the SQ program	archive, compression	binary		
+SQL Compact Database file	sdf		database			
+SQLite	db		database			
+Squirrel	nut		script			
+SSI	shtml	HTML with Server Side Includes (Apache)	webpage, dynamically generated			
+SSI	stm	HTML with Server Side Includes (Apache)	webpage, dynamically generated			
+Staden chromatogram files	scf	Used to store data from DNA sequencing	biology, molecular-biology			
+Standard Communication Protocol	scp-ecg	For Computer assisted electrocardiography	signal-data			
+Standard Communication Protocol for Computer assisted electrocardiography	scp-ecg	 EN1064:2007	biomedical-signals			
+Standard Flowgram Format	sff		biology, molecular-biology			
+Standard for gate-level timings	sdf		EDA			
+Standard for Power-domain specification in SoC implementation	upf		EDA			
+Standard for the Exchange of Product model data	step		CAD			
+Standard format for digital simulation waveform	vcd		EDA			
+Standard format for parasitics of interconnections in IC design	spef		EDA			
+Standard ML / OCaml source	ml		code			
+Standard Test Data Format	stdf	Proprietary file format for semiconductor test information originally developed by Teradyne, but it is now a de facto standard widely used throughout the semiconductor industry	test-technology			
+Standard Test Interface Language	stil	IEEE1450-1999 standard for Test Patterns for IC	EDA			
+StarOffice StarCalc Spreadsheet	sdc		spreadsheet			
+StarOffice's StarBase	sdb		database			
+StarOffice's StarImpress	sdd		presentation			
+StarWriter text document	sdw	Used in earlier versions of StarOffice	document			
+State Description Language	sdl		script			
+Steinberg Cubase drum file	drm		audio-editing, music-production			
+Steinberg Cubase project file	cpr		audio-editing, music-production			
+Steinberg Nuendo project file	npr		audio-editing, music-production			
+Stereo Lithographic data format	stl	Used by various CAD systems and stereo lithographic printing machines.	scene-description-language			
+Stereo Lithographic data format, Standard Tesselation Language	stl	Used by various CAD systems and stereo lithographic printing machines.	CAD			
+Stickfigure file for Pivot stickfigure animator	stk		code			
+Stockholm format	stockholm	Representing multiple sequence alignments	biology, molecular-biology			
+Storing program variables 	nbt	Storage along with their (Java) type identifiers	video-game-data			Minecraft
+Structured Data	eas3	binary file format for structured data	scientific-data-exchange			
+Structured Data Exchange Format	sdxf		multi-domain			
+StudioFactory project file	stf	Contains all necessary patches, samples, tracks and settings to play the file	audio-editing, music-production			
+StuffIt (Macintosh)	sit, sitx		archive, compression	binary		
+Super Famicom	fig	Japanese releases are rarely .fig, above extensions are more common	video-game-storage-media			
+Super NES	smc,078,sfc	.078 is for rare split ROMs	video-game-storage-media			
+Super NES Saved Data Files	srm		video-game-storage-media			
+Super Nintendo Entertainment System sound file format.	spc		other-music			
+SWF extracted scripts	flr	File which contains scripts extracted from SWF by a free ActionScript decompiler named FLARE	video	text		
+SWIG interface file	i		code			
+SWIG source code	swg		code			
+Swiss-Prot database format	swiss-prot	The flatfile format used to represent database records for protein sequences from the Swiss-Prot database	biology, molecular-biology			
+Sybase Advantage Database Server	adt, ads		database			
+SYLK (SYmbolic LinK)	slk		spreadsheet			
+SyMAT JavaScript	syjs		script			
+SyMAT Python	sypy		script			
+SynFactory project file	syn	Contains all necessary patches, samples, tracks and settings to play the file	audio-editing, music-production			
+Synopsys Design Constraints, format for synthesis constraints	sdc		EDA			
+System Deployment Image	sdi	Used for archiving and providing "virtual disk" functionality.	physical, recordable media, archiving	binary		
+Systems Biology Markup Language	sbml	Used to store biochemical network computational models	biology, molecular-biology			
+SystemVerilog source file	sv		EDA			
+T-FLEX CAD File	grb		CAD			
+tab delimited columns	tab	Also TSV (Tab-Separated Values)	spreadsheet			
+Tab-separated values	tsv		tabulated-data			
+tab-separated values	tsv			text		
+Tabbery Virtual Desktop Tab file	tb		archive, compression	binary		
+Tagged Image File Format	tif, tiff	usually lossless, but many variants exist, including lossy ones	raster-graphics			
+Tape images including copy protection	tap		video-game-storage-media			Commodore 64
+Tape images without copy protection	tap		video-game-storage-media			ZX Spectrum
+Tape images without copy protection	t64	Considerably smaller than .tap files	video-game-storage-media			Commodore 64
+Tar	tar	Group of files, packaged as one file	archive, compression	binary		
+Tcl	tcl		script			
+TCL source code	tcl		code			
+Temporary database file	ldb	Only existing when database is open	database			
+Temporary file	temp, tmp	Sometimes in a specific format, but often just raw data in the middle of processing	temporary			
+TeX	tex		document			
+TeX font metric	tfm		font			
+Texinfo	info		document			
+text file	txt		spreadsheet			
+Text log file	log		document			
+Text602 document	602		document			
+Texture format	utx		video-game-data			Unreal Engine,  Unreal Engine 1, Unreal Engine 2
+The FASTQ file format	fastq	Sequence data with quality. Sometimes also given as QUAL.	biology, molecular-biology			
+The Genome Compiler project	gcproj	Advanced file format for genetic data to be designed, shared and visualized.	biology, molecular-biology			
+The Only Sheet	tos	Character file from The Only Sheet	web			
+TheDraw Font	tdf		font			
+ThinkFree Calc	clf		spreadsheet			
+ThinkFree Show	shf		presentation			
+ThinkFree Write	wrf		document			
+Tom's Lossless Audio Kompressor	tak		music, sound, lossless, compressed			
+TomTom POI overlay file	ov2		gis			
+TopicCrunch Project File	topc	SEO Project file holding keywords, domain and search engine settings	web	text		
+Torque Game Engine	dts		3d-graphics			
+Track ax media	txm		other-music			
+Troff	troff		document			
+True Audio	tta	Free lossless audio codec	music, sound, lossless, compressed			
+True Image backup	tib		archive, compression	binary		Acronis
+TrueCryp Virtual encrypted disk container	tc		security, encryption			TrueCryp
+TrueType Font	ttf, ttc		font			
+Truevision TGA (Targa) image	tga, targa, icb, vda, vst, pix		raster-graphics			
+Turbo Pascal included source	inc		code			
+TurboCAD 	tcw	For Windows 2D and 3D drawing	CAD			
+TurboCAD drawing template	tct		CAD			
+TurboGrafx-16/PC Engine	pce		video-game-storage-media			
+TurboTax File	tax		financial-records			
+Turtlebeach SampleVision	smp		audio, music, sound, lossy			
+Ultra High Archive Compression	uha		archive, compression	binary		
+Uncompressed Massachusetts General Hospital imaging format	mgh	Used by the FreeSurfer brain analysis package	biomedical-imaging			
+Unified utility encode	uue	The generic and default format for all things UUe-related.	archive, compression	binary		
+Uniform Office Format	uof		document			
+Unique Object Markup Language	uoml		document			
+Universal 3D file format	u3d		3d-graphics			
+Universal Data Link	udl		database			
+Universal Document	egt	Universal Document can be used to store CSS type styles	page-description-language			
+UNIX Common Object File Format	coff	No suffix for executable image, .o for object files. Now often superseded by ELF	executable-files			
+Unreal script format	u		video-game-data			Unreal Engine
+USGS DEM file format	dem		gis			
+Value Added Process	vap	the native 16-bit binaries compiled for Novell's NetWare Operating System (version 2, NetWare 286, Advanced NetWare, etc.)	executable-files			
+Valve Studiomdl Data format	smd		3d-graphics			
+Valve Texture Format	vtf		raster-graphics			
+Variant Call Format	vcf	Standard created by the 1000 Genomes Project that lists and annotates the entire collection of human variants (with the exception of approximately 1.6 million variants).	biology, molecular-biology			
+VariCAD drawing file	dwb		CAD			
+Vectorworks	vwx		3d-graphics			
+Vendor neutral gate-level netlist format	edif		EDA			
+Ventura Publisher	chp, pub, sty, cap, cif, vgr, frm	Xerox (DOS / GEM)	desktop-publishing			
+Verilog source file	v		EDA			
+VHDL source file	vhd, vhdl		EDA			
+Video format	roq		video-game-data			
+Video Game Music	vgm	Log for several different chips	other-music			
+video standard data file	dat	Automatically created during attempt to burn a video file on a CD	video			
+VideoPad project file	vpj		video-editing			
+Vim swap file	swp		temporary			vim
+Virtual Architecture CAD file	acp	VA Software VA	CAD			
+Virtual Floppy Disk	vfd		virtual-machine,  virtual-server			
+Virtual Hard Disk	vhd		virtual-machine,  virtual-server			
+Virtual Machine BIOS	nvram		virtual-machine, vmware			
+Virtual Machine Configuration	vmc		virtual-machine,  virtual-server			
+Virtual Machine configuration	vmx,cfg		virtual-machine, vmware			
+Virtual Machine Disk	vmdk, dsk		virtual-machine, vmware			
+Virtual Machine hard disk	hdd		virtual-machine, parallels-workstation			
+Virtual Machine Logfile	log		virtual-machine, vmware			
+Virtual Machine paging file	vmem		virtual-machine, vmware			
+Virtual Machine preferences/configuration	pvs		virtual-machine, parallels-workstation			
+Virtual Machine Saved State	vsv		virtual-machine,  virtual-server			
+Virtual Machine saved state	sav		virtual-machine, parallels-workstation			
+Virtual Machine snapshot	vmsn		virtual-machine, vmware			
+Virtual Machine snapshot metadata	vmsd		virtual-machine, vmware			
+Virtual Machine suspended state	vmss,std		virtual-machine, vmware			
+Virtual Machine team configuration	vmxf		virtual-machine, vmware			
+Virtual Machine team data	vmtm		virtual-machine, vmware			
+Virtual Reality Modeling Language	wrl, vrml	Creation of 3D viewable web images.	scene-description-language			
+Virtual Software Archive	vsa		archive, compression	binary		Altiris 
+Virtual Undo Disk	vud		virtual-machine,  virtual-server			
+VirtualBox Virtual Disk Image	vdi		virtual-machine, virtualbox			
+Visicalc	vc		spreadsheet			
+Vision numeric Drawing	vnd		scene-description-language			TypeEdit, Gravostyle
+Visual Basic	bas		code			
+Visual Basic .NET project	vbproj		code			
+Visual Basic class	cls		code			
+Visual Basic extensions	vbx		object-extensions			
+Visual Basic form	frm		code			
+Visual Basic form stash file (binary form file)	frx		code			
+Visual Basic project	vbp, vip		code			
+Visual Basic Script	vbs		script			
+Visual Basic.NET source	vb		code			
+Visual Boy Advance Save States	sgm		video-game-storage-media			
+Visual C++ project	vcproj		code			
+Visual Studio Analyzer project	vap		code			
+Visual Studio compatible project group	vbg		code			
+Visual Studio deployment project	vdproj		code			
+Visual Studio solution	sln		code			
+Visualization Storage Format	silo	A storage format for visualization developed at Lawrence Livermore National Laboratory	scientific-data-exchange			
+VIV	viv	Archive format used to compress data for several video games	archive, compression	binary		Need For Speed: High Stakes
+VocaListener project file	vcls		audio-editing, music-production			
+Vocaloid 2 Editor sequence	vsq	Excluding wave-file	audio-editing, music-production			
+Vocaloid 3 Editor sequence	vsqx	Excluding wave-file	audio-editing, music-production			
+Vocaloid phoneme library	ddi	Japanese, English, Korean, Spanish, Chinese, Catalan	web			
+Vocaloid singers voice Generator	ddb	Generating code for Vocaloid singers voice (see .DDI)	web			
+VOL	vol	unknown archive	archive, compression	binary		
+voucher design	v2d	Used by the voucher management included in JFire	scene-description-language			
+voxels in cryo-electron microscopy	mrc		3d-graphics			
+Voxels in cryo-electron microscopy	mrc		scientific-data-exchange			
+VRML Virtual reality modeling language	vrml97		3d-graphics			
+Vue scene file	vue		3d-graphics			
+VVVVVV	vvvvvv		video-game-data			VVVVVV
+Wakanda (software) database Data file	wadata		database			
+Wakanda (software) database Index file	waindx		database			
+Wakanda (software) database Journal file	wajournal		database			
+Wakanda (software) database Model file	wamodel		database			
+Waveform Generation Language	wgl	Format for Test Patterns for IC	EDA			
+Wavefront Object File	obj		3d-graphics			
+Wavexpress	wax	A ZIP alternative optimized for packages containing video, allowing multiple packaged files to be all-or-none delivered with near-instantaneous unpacking via NTFS file system manipulation.	archive, compression	binary		
+WavPack	wv		music, sound, lossless, compressed			
+Web Archive	war	Archives of Java Web applications	executable-files			
+Web Open Font Format	woff		font			
+Web template	tpl		page-description-language			
+Westwood 3D Model	w3d		3d-graphics			
+Wii	bin		video-game-storage-media			
+Wilcom ES Designer Embroidery CAD file	emb		CAD			
+Win32 PE file	bpl	A Win32 PE file created with Borland Delphi or C++Builder containing a package.	executable-files			
+Windows help file	hlp		web			
+Windows Live Movie Maker project file	wlmp		desktop-publishing			
+Windows Live Movie Maker project file	wlmp		video-editing			
+Windows Media Audio	wma		audio, music, sound, lossy			
+Windows Media Audio 9 Lossless	wma		music, sound, lossless, compressed			
+Windows Media Center recorded television format	dvr-ms	On Windows XP Media Center Edition	video			
+Windows Media Database file	wmdb	The CurrentDatabase_360.wmdb file can contain file name, file properties, music, video, photo and playlist information.	database			
+Windows Media Video	wmv	See ASF	video			
+Windows Meta File	wmf		scene-description-language			
+Windows Movie Maker project file	mswmm		video-editing			
+Windows Phone package	xap		executable-files			
+Windows PowerShell console file	psc1		script			
+Windows PowerShell data file	psd1		script			
+Windows PowerShell format and type definitions	ps1xml		script			
+Windows PowerShell module file	psm1		script			
+Windows PowerShell shell script	ps1		script			
+Windows Type Library	tlb		object-extensions			
+Wings3D	wings		3d-graphics			
+WinIM Contact file	pcontact		database			
+WordIt! document	wrd		document			
+WordPerfect document	wpd		document			
+WRL	wrl	Similar to STL, but includes color. Used by various CAD systems and 3D printing rapid prototyping machines. Also used for VRML models on the web.	CAD			
+X Window System Bitmap	xbm		raster-graphics			
+X Window System Pixmap	xpm		raster-graphics			
+X-ray crystallography voxels (electron density)	ccp4		3d-graphics			
+X-ray crystallography voxels (electron density)	ccp4		scientific-data-exchange			
+X3D	x3d		scene-description-language			
+Xbox 360 executable	xex		executable-files			
+Xbox executable	xbe		executable-files			
+XCOFF	o, a	No suffix for executable image, .o for object files, .a for shared object files. Extended COFF, used in AIX	executable-files			
+xDT	xdt	a family of data exchange formats for medical records	biomedical			
+XeX	xex		video-game-data, trackmania			TrackMania
+XHTML	xhtml, xht	eXtensible HyperText Markup Language	webpage, static			
+XM	xm	Fast Tracker module, adding instrument envelopes	other-music			
+XML Common Biometric Format	cbfx, xml	Based upon XCBF 1.1 (OASIS XML Common Biometric Format)	biometric-formats	text		
+XML Extended Biometric Format	ebfx, xml	Based on CBFX but with W3C XML Encryption support and semantic extensions	biometric-formats	text		
+XML Shareable Playlist Format	xspf, xml		playlists			
+XML Style Sheet	xslt, xsl		page-description-language			
+XML-based interchange format	gpx, xml		gis			
+XProc script/pipeline	xpl		script			
+XProc script/pipeline	xpl		code			
+XQuery file	xq		code			
+XSL Formatting Objects	xml		page-description-language		https://en.wikipedia.org/wiki/XSL_Formatting_Objects	
+XSLT stylesheet	xsl		code			
+yacc source	y		code			
+Yamaha TwinVQ	vqf		audio, music, sound, lossy			
+YAML Ain't Markup Language	yaml	Superset of JSON		text		
+You Need a Budget File	ynab		financial-records			
+YUV	yuv	Raw video format - Resolution (horizontal x vertical) and Sample structure 4:2:2 or 4:2:0 need to be known explicitly	video			
+Z	z	Unix compress file	archive, compression	binary		
+Zebra Technologies proprietary format	grf		raster-graphics			
+Zip	zip	popular compression format	archive, compression	binary		
+ZIP-based package for songs, themes and announcer packs	smzip		video-game-data			Stepmania
+Zip-compressed Massachusetts General Hospital imaging format	mgz	Used by the FreeSurfer brain analysis package	biomedical-imaging			
+Zmodeler	z3d		3d-graphics			
+zoo	zoo	based on LZW	archive, compression	binary		
+ZSNES Save States	zst, zs1-zs9, z10-z99		video-game-storage-media			
+Zune Playlist format	zpl	From Microsoft	playlists			Xbox Music, Zune
