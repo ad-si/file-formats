@@ -24,8 +24,10 @@
   "dependencies": {},
   "devDependencies": {
     "browserify": "^13.0.0",
+    "coffee-script": "^1.10.0",
     "html-tablify": "^1.1.1",
     "jquery": "^2.2.0",
+    "shaven": "^0.8.1",
     "tsv-to-json": "^0.2.0"
   }
 }
