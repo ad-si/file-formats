@@ -1,4 +1,4 @@
-format	extensions	description	categories	encoding	links	apps
+format	extensions	description	tags	encoding	links	apps
 !UT	!ut	partially completed downloads in uTorrent	partial-file, incomplete-transfer			uTorrent
 (Edited) Challenge files.	challenge.gbx		video-game-data, trackmania			TrackMania
 3-D wireframe graphics	3dv	By Oscar Garcia	vector-graphics			
@@ -16,11 +16,11 @@ format	extensions	description	categories	encoding	links	apps
 7-Zip compressed file	7z		archive, compression	binary		
 880K diskette images	adf		video-game-storage-media			Amiga
 A file 	a	A very confusing file that only a few set of programs can make a good use out of.		text		The Binding of Isaac: Rebirth
-a file format used by old versions of Microsoft Paint. Replaced with BMP in Microsoft Windows 3.0	msp		raster-graphics			
-a lossless format used by ZSoft's PC Paint, popular at one time on DOS systems.	pcx		raster-graphics			
+a file format used by old versions of Microsoft Paint. Replaced with BMP in Microsoft Windows 3.0	msp		raster-graphic, image			
+a lossless format used by ZSoft's PC Paint, popular at one time on DOS systems.	pcx		raster-graphic, image			
 A lump is an entry in a DOOM wad.	lmp		video-game-data			DOOM
-a run-length encoded image	rle		raster-graphics			
-A U.S. Government standard commonly used in Intelligence systems	nitf		raster-graphics			
+a run-length encoded image	rle		raster-graphic, image			
+A U.S. Government standard commonly used in Intelligence systems	nitf		raster-graphic, image			
 AAF	aaf	Mostly intended to hold edit decisions and rendering information, but can also contain compressed media essence	video			
 Ability Draw	awg		vector-graphics			
 Ability Spreadsheet	aws		spreadsheet			
@@ -56,11 +56,11 @@ Adobe InDesign	indd		desktop-publishing
 Adobe JavaScript language	jsfl	By Adobe	script			
 Adobe PageMaker	pmd		desktop-publishing			
 Adobe Photoshop	psd		desktop-publishing			
-Adobe Photoshop Big image file	psb	For large files	raster-graphics			
-Adobe Photoshop Drawing	psd, pdd		raster-graphics			
+Adobe Photoshop Big image file	psb	For large files	raster-graphic, image			
+Adobe Photoshop Drawing	psd, pdd		raster-graphic, image			
 Adobe PRC	prc	embedded in PDF files	3d-graphics			
 Adobe Premiere Pro video editing file	ppj, prproj		video-editing			
-Adobe Swatch	ase		raster-graphics			
+Adobe Swatch	ase		raster-graphic, image			
 Advanced Audio Coding	aac		archive, compression	binary		
 Advanced Audio Coding	m4a, mp4, m4p, aac	Usually in an MPEG-4 container	audio, music, sound, lossy			
 Advanced Function Presentation	afp	IBc	document			
@@ -76,7 +76,7 @@ Akai MPC sound file	snd		audio-editing, music-production
 Alembic	abc	Computer graphics	3d-graphics			
 Alias		Mac OS	links-and-shortcuts			
 ALZip compressed file	alz		archive, compression	binary		
-America Online proprietary format	art		raster-graphics			
+America Online proprietary format	art		raster-graphic, image			
 American National Standards Institute Text	ans	Also called ANSI text	document			
 Amiga Disk Format	adf	For archiving Amiga floppy disks	physical, recordable media, archiving	binary		
 Amigaguide	amigaguide		document			
@@ -96,7 +96,7 @@ Apple IMovie for IOS users	imoviemobile		video-editing
 Apple iOS application executable file	ipa	Another form of zip file.	executable-files			
 Apple Keynote Presentation	key, keynote		presentation			
 Apple Lossless	m4a		music, sound, lossless, compressed			
-Apple Macintosh PICT image	pict, pct		raster-graphics			
+Apple Macintosh PICT image	pict, pct		raster-graphic, image			
 Apple Motion project file	motn		video-editing			
 Apple Pages document	pages		document			
 AppleScript	applescript, scpt, scptd		script			
@@ -188,7 +188,7 @@ BlindWrite 5/6 image file	b6t		physical, recordable media, archiving	binary
 Blitz3D	bb		code			
 Blitz3D Model	b3d		3d-graphics			
 BlitzMax	bmx		code			
-Blizzard Entertainment proprietary texture format	blp		raster-graphics			
+Blizzard Entertainment proprietary texture format	blp		raster-graphic, image			
 Blizzard Entertainment's own model format	mdx		3d-graphics			
 BML	bml	Better Markup Language (templating)	webpage, dynamically generated			
 Board file	brd	Board file for EAGLE Layout Editor, a commercial PCB design tool	EDA			
@@ -217,7 +217,7 @@ CadStd	cad		CAD
 Cakewalk Sonar project file	cwp		audio-editing, music-production			
 Cal3D	cal3d		3d-graphics			
 Caligari Object	cob		3d-graphics			
-Canon camera raw format	cr2	 Photos will have this format on some Canon cameras if the quality "RAW" is selected in camera settings.	raster-graphics			
+Canon camera raw format	cr2	 Photos will have this format on some Canon cameras if the quality "RAW" is selected in camera settings.	raster-graphic, image			
 Cartridge images	crt		video-game-storage-media			Commodore 64
 Cascading Style Sheets	css		page-description-language			
 cascading style sheets	css			text		
@@ -236,7 +236,7 @@ CFM	cfm	ColdFusion	webpage, dynamically generated
 CGI	cgi		webpage, dynamically generated			
 Chart Data File Format	cfwb	From ADInstruments Pty Ltd, Bella Vista NSW, Australia.	biomedical-signals			
 Chart Data File Format	cfwb	From ADInstruments	signal-data			
-Chasys Draw IES image	cd5		raster-graphics			
+Chasys Draw IES image	cd5		raster-graphic, image			
 Cheetah 3D file	jas		3d-graphics			
 Chemical Markup Language	cml		chemistry			
 Chemical table file (CTab)	mol, sd, sdf		chemistry			
@@ -282,7 +282,7 @@ CopyCAD Model	ccm		CAD
 CopyCAD Session	ccs		CAD			
 Corel Paradox database management	pdx		database			
 Corel Photo-Paint	cpt		desktop-publishing			
-Corel PHOTO-PAINT image	cpt		raster-graphics			
+Corel PHOTO-PAINT image	cpt		raster-graphic, image			
 Corel Presentations slide show creation	shw		presentation			
 CorelDRAW	cdr		desktop-publishing			
 CorelDRAW Document	cdr		vector-graphics			
@@ -320,12 +320,12 @@ DeHackEd files to mutate the game executable (not officially part of the DOOM en
 Delcam Geometry	dgk		CAD			
 Delcam Machining Triangles	dmt		CAD			
 Delphi compiled unit	dcu		executable-files			
-Deluxe Paint image file	lbm		raster-graphics			
+Deluxe Paint image file	lbm		raster-graphic, image			
 Design database format with APIs	openaccess		EDA			
 Desktop entry on Linux Desktop environments	desktop		links-and-shortcuts			
 Detailed Standard Parasitic Format	dspf	Analog-level parasitics of interconnections in IC design	EDA			
 Device independent file format	dvi		page-description-language		https://en.wikipedia.org/wiki/Device_independent_file_format	
-Device-Independent Bitmap graphic	dib		raster-graphics			
+Device-Independent Bitmap graphic	dib		raster-graphic, image			
 Dialogic ADPCM Low Sample Rate Digitized Voice	vox		audio, music, sound, lossy			
 DiamondWare Digitized	dwd		audio, music, sound, lossy			
 Dicom Waveform Data	dicom	An extension of Dicom for storing waveform data	biomedical-signals			
@@ -338,7 +338,7 @@ Digital SIGnal Interchange Format	sigif	Application in neurophysiology.	biomedic
 Digital Terrain Elevation Data	dted		gis			
 Digital Theater Systems	dts, dtshd, dtsma		music, sound, lossless, compressed			
 DirectX 3D Model	x		3d-graphics			
-DirectX texture file	dds		raster-graphics			
+DirectX texture file	dds		raster-graphic, image			
 DiscJuggler image file	cdi		physical, recordable media, archiving	binary		
 Disk	dsk	For archiving floppy disks from a number of other platforms, including the ZX Spectrum and Amstrad CPC.	physical, recordable media, archiving	binary		
 Disk 64	d64	An archive of a Commodore 64 floppy disk.	physical, recordable media, archiving	binary		
@@ -348,14 +348,14 @@ Disk Masher System	dms	A disk-archiving system native to the Amiga.	physical, re
 Disk Masher System	dms	Previously used as a disk-archiving system native to the Amiga. Also supported by emulators.	video-game-storage-media			Amiga
 Disk storage images	dsk			binary		
 Distinguished Encoding Rules	cer, crt, der	stores certificates	security			
-DjVu for scanned documents	djvu		raster-graphics			
+DjVu for scanned documents	djvu		raster-graphic, image			
 DNS zone file	zone		web	text		
 DocBook XML sub-format	dbk		document			
 Dolphin	dol	The file format used by the Gamecube and Wii. Short for Dolphin - the codename of the Gamecube.	executable-files			
 Doom³ archive	pk4	Opens similarly to a zip archive	archive, compression	binary		
 DOS Basic	dat		database			
 DOS executable	exe		executable-files			
-Dr. Halo image file	cut		raster-graphics			
+Dr. Halo image file	cut		raster-graphic, image			
 Drawing	art	Superseded by xar	scene-description-language			Xara
 Drawing	xar		scene-description-language			Xara
 Drawing Express file format	exp		CAD			
@@ -378,7 +378,7 @@ EGT SmartSense	ess	 A database of files and its compression style. Specific to E
 EGT Universal Document	egt		script			
 EGT Universal Document	egt	Used to compress SQL databases to smaller files, may contain original EGT database style.	database			
 EGT Universal Document	egt		document			
-EGT Universal Document	egt	Used in EGT SmartSense to compress PNG files to yet a smaller file	raster-graphics			
+EGT Universal Document	egt	Used in EGT SmartSense to compress PNG files to yet a smaller file	raster-graphic, image			
 EGT Universal Document	egt	EGT Vector Draw images are used to draw vector to a website	vector-graphics			
 Eiffel source	e		code			
 Electric Image	fact, fac		3d-graphics			
@@ -403,7 +403,7 @@ European data format	edf		signal-data
 European Data Format.	edf, edf+		biomedical-signals			
 European Molecular Biology Laboratory Format	embl	The flatfile format used by the EMBL to represent database records for nucleotide and peptide sequences from EMBL databases	biology, molecular-biology			
 Excellon file	excellon		CAD			
-Exchangeable image file format	exif	Exchangeable image file format (Exif) is a specification for the image file format used by digital cameras	raster-graphics			
+Exchangeable image file format	exif	Exchangeable image file format (Exif) is a specification for the image file format used by digital cameras	raster-graphic, image			
 Executable and Linkable Format 	elf	No suffix for executable image, .o for object files, .so for shared object files. Used in many modern Unix and Unix-like systems, including Solaris, other System V Release 4 derivatives, Linux, and BSD)	executable-files			
 Executable Image	out	No suffix for executable image, .o for object files, .so for shared object files, classic UNIX object format, now often superseded by ELF	executable-files			
 Expander	expander	 (see bundle)	executable-files			
@@ -471,7 +471,7 @@ GEnealogical Data COMmunication	gedcom, ged	File format for exchanging genealogi
 General data formats	gdf	For biomedical signals	signal-data			
 General editing	sqf		video-game-data			Real Virtuality Engine, Flashpoint, ARMA 2, VBS2
 General feature format	gff	The General feature format is used for describing genes and other features of DNA, RNA and protein sequences	biology, molecular-biology			
-General term for minimally processed image data	raw	Accquired by a digital camera	raster-graphics			
+General term for minimally processed image data	raw	Accquired by a digital camera	raster-graphic, image			
 Gentoo linux's portage package.	ebuild		script			
 Geographically located raster data	geotiff		gis			
 Geographically located raster data	worldtiff	Text file giving corner coordinate, raster cells per unit, and rotation	gis			
@@ -481,8 +481,8 @@ Gerber file	gbr		vector-graphics
 Gesture And Motion Signal format	gms		signal-data			
 GHO	gho, ghs	Norton Ghost	archive, compression	binary		
 Ghoul Mesh	glm		3d-graphics			
-GIMP image	xcf	From Gimp's origin at the eXperimental Computing Facility of the University of California	raster-graphics			
-GIMP Palette	gpl	Using a textual representation of color names and RGB values	raster-graphics	text		
+GIMP image	xcf	From Gimp's origin at the eXperimental Computing Facility of the University of California	raster-graphic, image			
+GIMP Palette	gpl	Using a textual representation of color names and RGB values	raster-graphic, image	text		
 GIMP palette file	gpl		color-palettes			
 GNU recutils database	rec		database			
 GNU Zip	gz, gzip	Compressed file	archive, compression	binary		
@@ -499,7 +499,7 @@ GRAITEC Advance file format	gtc		CAD
 graph6	g6	ASCII encoding of Adjacency matrices	mathematics	text		
 Graphical Analysis 3	ga3		web			
 Graphics Interchange Format	gif		archive, compression	binary		
-Graphics Interchange Format	gif	CompuServe's Graphics Interchange Format	raster-graphics			
+Graphics Interchange Format	gif	CompuServe's Graphics Interchange Format	raster-graphic, image			
 Greenstreet Publisher, GST PressWorks	dtp		desktop-publishing			
 Grid In Binary	grib	WMO format for weather model data	meteorology			
 GSM	gsm	GSM Full Rate, originally developed for use in mobile phones	audio, music, sound, lossy			
@@ -517,8 +517,8 @@ HE games File	he0, he2, he4		video-game-data
 Health Level 7	hl7	a framework for exchange, integration, sharing, and retrieval of health information electronically	biomedical			
 Health Level 7 v3 annotated ECG.	hl7aecg		biomedical-signals			
 Hierarchical Data Format	hdr, hdf, h4, h5		multi-domain			
-High resolution, compressed Degas picture file	pc3		raster-graphics			
-High resolution, uncompressed Degas picture file	pi3		raster-graphics			
+High resolution, compressed Degas picture file	pc3		raster-graphic, image			
+High resolution, uncompressed Degas picture file	pi3		raster-graphic, image			
 HITRAN	hit	Spectroscopic data with one optical/infrared transition per line in the ASCII file	scientific-data-exchange	text		
 HTML	html, htm	HyperText Markup Language	webpage, static			
 HTML Application	hta		script			
@@ -528,14 +528,14 @@ I-DEAS I-DEAS	unv	Integrated Design and Engineering Analysis Software	CAD
 IC Description language	cdl	Transistor-level netlist format for IC design	EDA			
 Icarus script	ibi		script			
 ICI	ici		script			
-Icon	ico	A file format originally used for icons in Microsoft Windows. Contains small bitmap images at multiple resolutions and sizes.	raster-graphics			
-Icons	icns	File format used for icons in Mac OS X. Contains bitmap images at multiple resolutions and bitdepths with alpha channel.	raster-graphics			
+Icon	ico	A file format originally used for icons in Microsoft Windows. Contains small bitmap images at multiple resolutions and sizes.	raster-graphic, image			
+Icons	icns	File format used for icons in Mac OS X. Contains bitmap images at multiple resolutions and bitdepths with alpha channel.	raster-graphic, image			
 IDL	pro		code			
 iHTML	ihtml	Inline HTML	webpage, dynamically generated			
-ILBM	iff, ilbm, lbm		raster-graphics			
+ILBM	iff, ilbm, lbm		raster-graphic, image			
 Image	img	For archiving MS-DOS formatted floppy disks, larger optical media and Hard Disk Drives.	physical, recordable media, archiving	binary		
 Image-Line's Drumaxx drum kit file	dmkit		audio-editing, music-production			
-ImageMagick's native file format	miff		raster-graphics			
+ImageMagick's native file format	miff		raster-graphic, image			
 Imagine	iob	3D modeling software	3d-graphics			
 iMovie project file	imovieproj		video-editing			
 Impulse Tracker module	it	Adding compressed samples, note-release actions, and more effects including a resonant filter	other-music			
@@ -546,14 +546,14 @@ Initial Graphics Exchange Specification	iges		CAD
 Installation File	cia		video-game-storage-media			
 intelliRock Sensor Data File Format	irock		signal-data			
 Interactive Financial Exchange	ifx	XML-based specification for various forms of financial transactions	financial-data-transfer			
-Intergraph is a monochrome bitmap format	cit		raster-graphics			
+Intergraph is a monochrome bitmap format	cit		raster-graphic, image			
 Intergraph's Intergraph Standard File Formats			CAD			
 Intersystems Caché database file	dat		database			
 iPod Game	ipg	Format in which Apple Inc. packages their iPod games. can be extracted through Winrar	archive, compression	binary		
 IPython Notebook	ipynb		script			
 IronCAD 2D CAD file	icd		CAD			
 ISO	iso	The generic file format for most optical media, including CD-ROM, DVD-ROM, Blu-ray Disc, HD DVD and UMD.	physical, recordable media, archiving	binary		
-ISO 12234-2	tif, tiff	Tends to be used as a basis for other formats rather than in its own right.	raster-graphics			
+ISO 12234-2	tif, tiff	Tends to be used as a basis for other formats rather than in its own right.	raster-graphic, image			
 Itcl	itcl		script			
 Item File	itm		video-game-data			Diablo Engine
 J script	ijs		script			
@@ -572,9 +572,9 @@ JEDMICS image files	c4	A DOD system	archive, compression	binary
 JEDMICS image files	cals	A DOD system	archive, compression	binary		
 Jnes Save States	jst		video-game-storage-media			
 Joint Committee on Atomic and Molecular Physical Data	jcamp, dx, jdx		chemistry			
-Joint Photographic Experts Group	jpg, jpeg, jfif	Lossy image format widely used to display photographic images.	raster-graphics			
-JPEG Stereo	jps		raster-graphics			
-JPEG2000	jp2		raster-graphics			
+Joint Photographic Experts Group	jpg, jpeg, jfif	Lossy image format widely used to display photographic images.	raster-graphic, image			
+JPEG Stereo	jps		raster-graphic, image			
+JPEG2000	jp2		raster-graphic, image			
 JScript                      	js		script			
 JSON-LD	jsonld	A JSON-based Serialization for Linked Data	markup-language			
 Jupiter Tesselation	jt	Visualization format	CAD			
@@ -623,8 +623,8 @@ Lotus Notes database design template	ntf		database
 Lotus Notes Post Office mail routing database	box		database			
 Lotus Organizer PIM package	org		personal-information-manager			
 Lotus Word Pro	lwp		document			
-Low resolution, compressed Degas picture file	pc1		raster-graphics			
-Low resolution, uncompressed Degas picture file	pi1		raster-graphics			
+Low resolution, compressed Degas picture file	pc1		raster-graphic, image			
+Low resolution, uncompressed Degas picture file	pi1		raster-graphic, image			
 LPAC	pac		music, sound, lossless, compressed			
 LSMaker script file	lsm	Program using layered .jpg to create special effects; specifically designed to render lightsabers from the Star Wars universe	web			
 Lua	lua		script			
@@ -673,8 +673,8 @@ MediaForge	wrap		video
 Medical Imaging NetCDF format	minc, mnc	Previously based on NetCDF; since version 2.0, based on HDF5	biomedical-imaging			
 Medical waveform Format Encoding Rules	mfer		biomedical-signals			
 Medical waveform Format Encoding Rules	mfer		signal-data			
-Medium resolution, compressed Degas picture file	pc2		raster-graphics			
-Medium resolution, uncompressed Degas picture file. Also Portrait Innovations encrypted image format.	pi2		raster-graphics			
+Medium resolution, compressed Degas picture file	pc2		raster-graphic, image			
+Medium resolution, uncompressed Degas picture file. Also Portrait Innovations encrypted image format.	pi2		raster-graphic, image			
 Mega Drive/Sega Genesis	smd,bin		video-game-storage-media			
 Melody Modules	mod	Also Soundtracker and Protracker sample	other-music			
 Menu parts.	controleffectmaster.gbx, controlstyle.gbx		video-game-data, trackmania			TrackMania
@@ -708,7 +708,7 @@ Microsoft Publisher	pub		desktop-publishing
 Microsoft Schedule+ calendar	sc2		personal-information-manager			
 Microsoft SQL Server Database	mdf		database			
 Microsoft Wave	wav		music, sound, lossless, uncompressed			
-Microsoft Windows Bitmap formatted image	bmp		raster-graphics			
+Microsoft Windows Bitmap formatted image	bmp		raster-graphic, image			
 Microsoft Word document	doc		document			
 Microsoft Word document template	dot		document			
 Microsoft Word for Macintosh	mcw	versions 4.0–5.1	document			
@@ -727,7 +727,7 @@ MindGenius Mind Mapping Software file format.	mgmf		gio
 mIRC Script	mrc		script			
 Misfit Model 3d	mm3d		3d-graphics			
 Mission files	sqm		video-game-data			Real Virtuality Engine, Flashpoint, ARMA 2, VBS2
-MNG using JPEG compression	jng	A single-frame MNG using JPEG compression and possibly an alpha channel.	raster-graphics			
+MNG using JPEG compression	jng	A single-frame MNG using JPEG compression and possibly an alpha channel.	raster-graphic, image			
 Mobipocket Document	mobi		document			
 Mobipocket Metadata	mbp	Metadata for Mobipocket documents	document			
 Model for an item used in the game	mdl, md2, md3, md5		video-game-data			Quake Engine
@@ -747,7 +747,7 @@ MS Word AutoCorrect List	acl		document
 MSN webcam log file	cam		video			
 Multi-Picture Object	mpo	This JPEG standard is used for 3d images, as with the Nintendo 3DS	3d-graphics			
 Multipart PSF	minipsf, psflib		other-music			
-Multiple Network Graphics, the animated version of PNG	mng		raster-graphics			
+Multiple Network Graphics, the animated version of PNG	mng		raster-graphic, image			
 Musepack	mpc		audio, music, sound, lossy			
 Musescore compressed file	mscz		other-music			
 Musescore uncompressed file	msc		other-music			
@@ -845,11 +845,11 @@ Orienteering Computer Aided Design file	ocd, ocad		CAD
 Osu! compressed beatmap archive	osz		archive, compression	binary		
 Other TrackMania items.	gbx		video-game-data, trackmania			TrackMania
 OtsLabs Audio File	ots	Similar to MP3, with more data stored in the file and slightly better compression. Designed for use with OtsLabs' OtsAV.	audio, music, sound, lossy			
-Over The Air Bitmap	otb	A specification designed by Nokia for black and white images for mobile phones	raster-graphics			
+Over The Air Bitmap	otb	A specification designed by Nokia for black and white images for mobile phones	raster-graphic, image			
 Package	dbpf		video-game-data			The Sims 2
 Package format for cooked content	upk		video-game-data			Unreal Engine, Unreal Engine 3
-Paint Shop Pro image	psp		raster-graphics			
-Paint.NET image file	pdn		raster-graphics			
+Paint Shop Pro image	psp		raster-graphic, image			
+Paint.NET image file	pdn		raster-graphic, image			
 Palm OS Database	pdb		database			
 Palm OS resource database	prc		database			
 Panda3d	p3d	by Disney	video-game-data			Panda3d
@@ -876,30 +876,30 @@ PICAXE basic	bas		code
 PIF	pif	Used for running MS-DOS programs under Windows	web			
 PIPE-FLO Professional Piping system design file	pipe		CAD			
 Pivot stickfigure animator	piv		code			
-Pixar Image Computer image file	pxr		raster-graphics			
-Pixel Coordination Format	pcf		raster-graphics			
-Pixel image editor image file	px		raster-graphics			
-Pixelmator image file	pxm		raster-graphics			
+Pixar Image Computer image file	pxr		raster-graphic, image			
+Pixel Coordination Format	pcf		raster-graphic, image			
+Pixel image editor image file	px		raster-graphic, image			
+Pixelmator image file	pxm		raster-graphic, image			
 PK3, PK4	pk3, pk4	Store game data, textures etc. Actually just ZIP files.	video-game-data			Quake Engine, Quake 2, Quake 3 Arena, Quake 4
 PKZIP archive	xpi	Can be run by Mozilla web browsers to install software	executable-files			
 Plain text	asc, txt	human-readable plain text, usually no more specific		text		
 PLD	pld		page-description-language			
 PLS	pls		playlists			
-PNG Stereo	pns		raster-graphics			
+PNG Stereo	pns		raster-graphic, image			
 POD	pod		video-game-data			Terminal Reality
 Polygon File Format	ply	Also called Stanford Triangle Format	3d-graphics			
-Portable anymap graphic bitmap image	pnm		raster-graphics			
+Portable anymap graphic bitmap image	pnm		raster-graphic, image			
 Portable Application File	paf		archive, compression	binary		
-Portable bitmap	pbm		raster-graphics			
+Portable bitmap	pbm		raster-graphic, image			
 Portable Compiled Font	pcf		font			
 Portable Database Image	pdi		database			
 Portable Document Archive (PDA) document index file	pdax		document			
 Portable Document Format	pdf		document			
 Portable Document Format	pdf		page-description-language			
 Portable Executable	exe	Used in Microsoft Windows and some other systems	executable-files			
-Portable graymap	pgm		raster-graphics			
-Portable Network Graphic	png	Lossless, recommended for display and edition of graphic images	raster-graphics			
-Portable Pixmap (Pixel Map) image	ppm		raster-graphics			
+Portable graymap	pgm		raster-graphic, image			
+Portable Network Graphic	png	Lossless, recommended for display and edition of graphic images	raster-graphic, image			
+Portable Pixmap (Pixel Map) image	ppm		raster-graphic, image			
 Portable Sound Format	psf	PlayStation variant (originally PlayStation Sound Format)	other-music			
 Portable Sound Format for other platforms then PlayStation	2sf, dsf, gsf, psf2, qsf, ssf, usf		other-music			
 Portable SPSS files	por	Readable by PSPP	web			
@@ -948,7 +948,7 @@ Quattro Pro spreadsheet	qpw		spreadsheet
 Question Object File Format	quox		document			Quobject Designer, Quobject Explorer
 QuickDraw 3D Metafile	3dmf		3d-graphics			
 Quicken Interchange Format	qif	open standard formerly supported by Intuit	financial-data-transfer			
-QuickLink Fax image	qfx		raster-graphics			
+QuickLink Fax image	qfx		raster-graphic, image			
 QuickTime Movie Format	mov	container which enables any form of compression to be used; Sorenson codec is the most common; QTCH is the filetype for cached video and audio streams	video			QuickTime
 QW Page NewViews object oriented accounting database	nv2		database			
 R	r	Real Native Application File (short alternative)	webpage, dynamically generated			
@@ -1020,14 +1020,14 @@ Saved game.	fidcache.gbx		video-game-data, trackmania			TrackMania
 Savegame format	sav		video-game-data			
 Scala source	scala		code			
 Scalable Vector Graphics, employs XML	svg		vector-graphics			
-ScanSoft PaperPort document	max		raster-graphics			
+ScanSoft PaperPort document	max		raster-graphic, image			
 Scattering parameter data file	s*p	Touchstone/EEsof Scattering parameter data file multi-port blackbox performance, measurement or simulated	EDA			
 Scenario replays	rep		video-game-data			StarCraft
 Scene data storage	oec		video-game-data			OE-Cake
 Scheme source	scm		code			
 Scifer Archive, Scifer External Archive Type	ba		archive, compression	binary		
 Scilab	sci, sce		code			
-Scitex Continuous Tone image file	sct		raster-graphics			
+Scitex Continuous Tone image file	sct		raster-graphic, image			
 Scream Tracker 3 module	s3m	With a few more effects and a dedicated volume column	other-music			
 Scribus	sla, scd		desktop-publishing			
 Seed7 source	sd7		code			
@@ -1048,7 +1048,7 @@ Shuttle Document	se		document
 Sibelius Notation File	sib		other-music			Sibelius
 SIGnal Interchange Format	sigif		signal-data			
 Signed Differential Mapping	sdm	Brain maps and distributions	biomedical-imaging			
-Silicon Graphics Image	sgi, rgb, int, bw		raster-graphics			
+Silicon Graphics Image	sgi, rgb, int, bw		raster-graphic, image			
 Simple Data Format	sdf	A platform-independent, precision-preserving binary data I/O format capable of handling large, multi-dimensional arrays.	scientific-data-exchange			
 Simplified molecular input line entry specification	smiles, smi		chemistry			
 SketchUp file	skp		web			
@@ -1139,7 +1139,7 @@ tab delimited columns	tab	Also TSV (Tab-Separated Values)	spreadsheet
 Tab-separated values	tsv		tabulated-data			
 tab-separated values	tsv			text		
 Tabbery Virtual Desktop Tab file	tb		archive, compression	binary		
-Tagged Image File Format	tif, tiff	usually lossless, but many variants exist, including lossy ones	raster-graphics			
+Tagged Image File Format	tif, tiff	usually lossless, but many variants exist, including lossy ones	raster-graphic, image			
 Tape images including copy protection	tap		video-game-storage-media			Commodore 64
 Tape images without copy protection	tap		video-game-storage-media			ZX Spectrum
 Tape images without copy protection	t64	Considerably smaller than .tap files	video-game-storage-media			Commodore 64
@@ -1151,7 +1151,7 @@ Temporary file	temp, tmp	Sometimes in a specific format, but often just raw data
 TeX	tex		document			
 TeX font metric	tfm		font			
 Texinfo	info		document			
-text file	txt		spreadsheet			
+Text file	txt		document			
 Text log file	log		document			
 Text602 document	602		document			
 Texture format	utx		video-game-data			Unreal Engine,  Unreal Engine 1, Unreal Engine 2
@@ -1172,7 +1172,7 @@ True Audio	tta	Free lossless audio codec	music, sound, lossless, compressed
 True Image backup	tib		archive, compression	binary		Acronis
 TrueCryp Virtual encrypted disk container	tc		security, encryption			TrueCryp
 TrueType Font	ttf, ttc		font			
-Truevision TGA (Targa) image	tga, targa, icb, vda, vst, pix		raster-graphics			
+Truevision TGA (Targa) image	tga, targa, icb, vda, vst, pix		raster-graphic, image			
 Turbo Pascal included source	inc		code			
 TurboCAD 	tcw	For Windows 2D and 3D drawing	CAD			
 TurboCAD drawing template	tct		CAD			
@@ -1192,7 +1192,7 @@ Unreal script format	u		video-game-data			Unreal Engine
 USGS DEM file format	dem		gis			
 Value Added Process	vap	the native 16-bit binaries compiled for Novell's NetWare Operating System (version 2, NetWare 286, Advanced NetWare, etc.)	executable-files			
 Valve Studiomdl Data format	smd		3d-graphics			
-Valve Texture Format	vtf		raster-graphics			
+Valve Texture Format	vtf		raster-graphic, image			
 Variant Call Format	vcf	Standard created by the 1000 Genomes Project that lists and annotates the entire collection of human variants (with the exception of approximately 1.6 million variants).	biology, molecular-biology			
 VariCAD drawing file	dwb		CAD			
 Vectorworks	vwx		3d-graphics			
@@ -1295,8 +1295,8 @@ WinIM Contact file	pcontact		database
 WordIt! document	wrd		document			
 WordPerfect document	wpd		document			
 WRL	wrl	Similar to STL, but includes color. Used by various CAD systems and 3D printing rapid prototyping machines. Also used for VRML models on the web.	CAD			
-X Window System Bitmap	xbm		raster-graphics			
-X Window System Pixmap	xpm		raster-graphics			
+X Window System Bitmap	xbm		raster-graphic, image			
+X Window System Pixmap	xpm		raster-graphic, image			
 X-ray crystallography voxels (electron density)	ccp4		3d-graphics			
 X-ray crystallography voxels (electron density)	ccp4		scientific-data-exchange			
 X3D	x3d		scene-description-language			
@@ -1323,7 +1323,7 @@ YAML Ain't Markup Language	yaml	Superset of JSON		text
 You Need a Budget File	ynab		financial-records			
 YUV	yuv	Raw video format - Resolution (horizontal x vertical) and Sample structure 4:2:2 or 4:2:0 need to be known explicitly	video			
 Z	z	Unix compress file	archive, compression	binary		
-Zebra Technologies proprietary format	grf		raster-graphics			
+Zebra Technologies proprietary format	grf		raster-graphic, image			
 Zip	zip	popular compression format	archive, compression	binary		
 ZIP-based package for songs, themes and announcer packs	smzip		video-game-data			Stepmania
 Zip-compressed Massachusetts General Hospital imaging format	mgz	Used by the FreeSurfer brain analysis package	biomedical-imaging			
