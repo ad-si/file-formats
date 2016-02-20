@@ -18,7 +18,7 @@ module.exports = (config) ->
 	)
 
 	{width, height} = config
-
+	mainExtension = config.extensions.split(',')[0]
 
 	icon = {}
 	icon.text = ['g'
@@ -151,13 +151,12 @@ module.exports = (config) ->
 			width: width
 			height: height
 			style:
-				fill: colorHash.hex(config.format)
-				# TODO: Write color in tsv file
+				fill: colorHash.hex(mainExtension + config.format)
 		]
 		['g'
 			icon[config.type]
 			['text'
-				config.extensions.split(',')[0].slice(-4)
+				mainExtension.slice(-4)
 				x: 8
 				y: 13.5
 				'text-anchor': 'middle'
