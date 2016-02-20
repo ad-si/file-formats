@@ -2,6 +2,7 @@ shaven = require 'shaven'
 ColorHash = require 'color-hash'
 colorHash = new ColorHash({lightness: 0.7})
 
+
 module.exports = (config) ->
 
 	defaults =
@@ -52,6 +53,7 @@ module.exports = (config) ->
 			style:
 				'font-family': 'Courier, monospace'
 				'font-size': (width + height) / 5
+				'font-weight': 900
 		]
 	]
 
@@ -85,36 +87,64 @@ module.exports = (config) ->
 		]
 	]
 
-	icon.photo = ['g'
+
+	icon.photo = icon.image = ['g'
+		[
+			'rect'
+			x: 3.5
+			y: 2.5
+			width: 9
+			height: 5
+			style:
+				fill: 'none'
+				stroke: 'black'
+				'stroke-width': 1
+		]
 		[
 			'circle'
-			r: 5
-			cx: 8
-			cy: 4
+			cx: 6
+			cy: 4.5
+			r: 1
+		]
+		[
+			'path'
+			d: 'M6,8 l2,-2 l1,0.5 l1,-2 l2,3 z'
 		]
 	]
 
 	icon.video = ['g'
 		{
-			transform: 'translate(2,3)'
-		}
-		['rect'
-			width: 3
-			height: 4
-		]
-		['rect'
-			y: 0.5
-			x: 4.5
-			width: 3
-			height: 3
+			transform: 'translate(1,3)'
 			style:
+				fill: 'none'
 				stroke: 'black'
 				'stroke-width': 1
+		}
+		['path' # Left frame
+			d: 'M0.5,0.5 h2 v4 h-2'
 		]
-		['rect'
-			x: 9
-			width: 3
+		['rect' # Center frame
+			x: 4.5
+			y: 0.5
+			width: 5
 			height: 4
+		]
+		['circle' # Sun
+			cx: 6.5
+			cy: 2
+			r: 0.8
+			style:
+				fill: 'black'
+				stroke: 'none'
+		]
+		['path' # Mountain
+			d: 'M6,5 l2,-2.5 l1.5,2.5 z'
+			style:
+				fill: 'black'
+				stroke: 'none'
+		]
+		['path' # Right frame
+			d: 'M13.5,0.5 h-2 v4 h2'
 		]
 	]
 
@@ -128,6 +158,18 @@ module.exports = (config) ->
 				'stroke-width': 1
 		]
 	]
+
+
+	config.tags
+		.split ','
+		.map (tag) ->
+			tag.trim()
+		.some (tag) ->
+			if icon[tag]
+				config.type = tag
+				return true
+			else
+				return false
 
 
 	shavenArray = [

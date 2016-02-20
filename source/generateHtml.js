@@ -27,7 +27,7 @@ fileFormats = fileFormats
 
 		return formatObject
 	})
-	.slice(0,100)
+	// .slice(0,100)
 
 
 const fileContent = fs.readFileSync(path.join(__dirname, 'index.html'), 'utf8')
