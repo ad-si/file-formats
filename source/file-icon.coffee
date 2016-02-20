@@ -151,11 +151,14 @@ module.exports = (config) ->
 	icon.audio = ['g'
 		[
 			'path'
-			d: 'M3.5,5 q0.75,2 1.5,0 t1.5,0 t1.5,0 t1.5,0 t1.5,0 t1.5,0'
+			d: 'M2.5,5 q0.75,2 1.5,0
+				t1.5,1 t1.5,-1 t1.5,0
+				t1.5,1 t1.5,-1 t1.5,0'
 			style:
 				fill: 'none'
 				stroke: 'black'
 				'stroke-width': 1
+				'stroke-linecap': 'round'
 		]
 	]
 
