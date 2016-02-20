@@ -1,4 +1,6 @@
 shaven = require 'shaven'
+ColorHash = require 'color-hash'
+colorHash = new ColorHash({lightness: 0.7})
 
 module.exports = (config) ->
 
@@ -149,7 +151,8 @@ module.exports = (config) ->
 			width: width
 			height: height
 			style:
-				fill: 'white'
+				fill: colorHash.hex(config.format)
+				# TODO: Write color in tsv file
 		]
 		['g'
 			icon[config.type]
