@@ -175,6 +175,10 @@ module.exports = (config) ->
 				return false
 
 
+	printedExtension = if mainExtension.length > 5 \
+		then '...' + mainExtension.slice(-3)
+		else mainExtension
+
 	shavenArray = [
 		'svg'
 		width: (width * 1.25) + 'px'
@@ -201,13 +205,14 @@ module.exports = (config) ->
 		['g'
 			icon[config.type]
 			['text'
-				mainExtension.slice(-4)
+				printedExtension
 				x: 8
 				y: 13.5
 				'text-anchor': 'middle'
 				style:
 					'font-size': ((width + height) / 5.5) + 'px'
 					'font-family': 'Arial, sans-serif'
+					'letter-spacing': '-0.2px'
 			]
 		]
 	]
