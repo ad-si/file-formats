@@ -19,7 +19,13 @@ module.exports = (config) ->
 	)
 
 	{width, height} = config
-	mainExtension = config.extensions.split(',')[0]
+	mainExtension = if config.extension \
+		then config.extension
+		else (
+			if typeof config.extensions is 'string' \
+			then config.extensions.split(',')[0]
+			else config.extensions[0]
+		)
 
 	icon = {}
 	icon.text = ['g'
