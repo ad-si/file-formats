@@ -1,13 +1,14 @@
 shaven = require 'shaven'
 ColorHash = require 'color-hash'
 colorHash = new ColorHash({lightness: 0.7})
-
+fileFormats = require '../build/file-formats.json'
 
 module.exports = (config) ->
 
 	defaults =
 		width: 16
 		height: 16
+		standalone: false
 		type: if config.encoding and not config.type \
 			then config.encoding
 			else 'binary'
@@ -19,13 +20,12 @@ module.exports = (config) ->
 	)
 
 	{width, height} = config
-	mainExtension = if config.extension \
-		then config.extension
-		else (
-			if typeof config.extensions is 'string' \
+	mainExtension = switch
+		when config.extension then config.extension
+		when typeof config.extensions is 'string' \
 			then config.extensions.split(',')[0]
-			else config.extensions[0]
-		)
+		when Array.isArray(config.extensions) then config.extensions[0]
+		else ''
 
 	icon = {}
 	icon.text = ['g'
@@ -170,7 +170,7 @@ module.exports = (config) ->
 
 
 	config.tags
-		.split ','
+		?.split ','
 		.map (tag) ->
 			tag.trim()
 		.some (tag) ->
@@ -181,14 +181,14 @@ module.exports = (config) ->
 				return false
 
 
-	printedExtension = if mainExtension.length > 5 \
+	printedExtension = if mainExtension and mainExtension.length > 5 \
 		then '...' + mainExtension.slice(-3)
 		else mainExtension
 
 	shavenArray = [
 		'svg'
-		width: (width * 1.25) + 'px'
-		height: (height * 1.25) + 'px'
+		width: config.standalone ? (width * 1.25) + 'px' : null
+		height: config.standalone ? (height * 1.25) + 'px' : null
 		viewBox: [
 			0
 			0
