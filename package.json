@@ -17,6 +17,7 @@
   ],
   "author": "Adrian Sieber",
   "license": "ISC",
+  "private": true,
   "bugs": {
     "url": "https://gitlab.com/adius/file-formats/issues"
   },
