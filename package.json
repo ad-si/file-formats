@@ -1,6 +1,6 @@
 {
   "name": "file-formats",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "List of all file formats and one example file for each format",
   "main": "build/file-icon.js",
   "scripts": {
