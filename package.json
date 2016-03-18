@@ -22,13 +22,14 @@
     "url": "https://gitlab.com/adius/file-formats/issues"
   },
   "homepage": "https://gitlab.com/adius/file-formats#README",
-  "dependencies": {},
+  "dependencies": {
+    "color-hash": "^1.0.3",
+    "shaven": "^0.8.1"
+  },
   "devDependencies": {
     "browserify": "^13.0.0",
     "coffee-script": "^1.10.0",
-    "color-hash": "^1.0.3",
     "html-tablify": "^1.1.1",
-    "shaven": "^0.8.1",
     "tsv-to-json": "^0.2.0"
   }
 }
