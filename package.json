@@ -4,12 +4,12 @@
   "description": "List of all file formats and one example file for each format",
   "main": "build/file-icon.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "prepublish": "make"
+    "test": "make -B",
+    "postinstall": "make"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com/adius/file-formats.git"
+    "url": "git+ssh://git@github.com/adius/file-formats"
   },
   "keywords": [
     "file-format",
@@ -19,9 +19,9 @@
   "license": "ISC",
   "private": true,
   "bugs": {
-    "url": "https://gitlab.com/adius/file-formats/issues"
+    "url": "https://github.com/adius/file-formats/issues"
   },
-  "homepage": "https://gitlab.com/adius/file-formats#README",
+  "homepage": "https://github.com/adius/file-formats",
   "dependencies": {
     "color-hash": "^1.0.3",
     "shaven": "^0.8.1"
