@@ -1,4 +1,4 @@
-shaven = require 'shaven'
+shaven = require('shaven').default
 ColorHash = require 'color-hash'
 colorHash = new ColorHash({lightness: 0.7})
 fileFormats = require '../build/file-formats.json'

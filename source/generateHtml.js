@@ -3,6 +3,7 @@ const url = require('url')
 const path = require('path')
 
 const htmlTablify = require('html-tablify')
+
 const fileIcon = require('../build/file-icon')
 let fileFormats = require('../build/file-formats.json')
 
