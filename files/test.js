@@ -1,47 +1,52 @@
-(function() {
-  var cubes, list, math, num, number, opposite, race, square,
-    slice = [].slice;
+const slice = [].slice
+let number = 42
+const opposite = true
 
-  number = 42;
+if (opposite) {
+  number = -42
+}
 
-  opposite = true;
+console.info(number)
 
-  if (opposite) {
-    number = -42;
+const square = function (xValue) {
+  return xValue * xValue
+}
+
+const list = [1, 2, 3, 4, 5]
+
+const math = {
+  root: Math.sqrt,
+  square: square,
+  cube: function (xValue) {
+    return xValue * square(xValue)
+  },
+}
+
+const race = function () {
+  const winner = arguments[0]
+  const runners = arguments.length >= 2
+    ? slice.call(arguments, 1)
+    : []
+  return print(winner, runners)
+}
+
+console.info(race)
+
+const elvis = false
+
+if (typeof elvis !== 'undefined' && elvis !== null) {
+  alert('I knew it!')
+}
+
+const cubes = (() => {
+  const results = []
+  const len = list.length
+
+  for (let index = 0; index < len; index++) {
+    const num = list[index]
+    results.push(math.cube(num))
   }
+  return results
+})()
 
-  square = function(x) {
-    return x * x;
-  };
-
-  list = [1, 2, 3, 4, 5];
-
-  math = {
-    root: Math.sqrt,
-    square: square,
-    cube: function(x) {
-      return x * square(x);
-    }
-  };
-
-  race = function() {
-    var runners, winner;
-    winner = arguments[0], runners = 2 <= arguments.length ? slice.call(arguments, 1) : [];
-    return print(winner, runners);
-  };
-
-  if (typeof elvis !== "undefined" && elvis !== null) {
-    alert("I knew it!");
-  }
-
-  cubes = (function() {
-    var i, len, results;
-    results = [];
-    for (i = 0, len = list.length; i < len; i++) {
-      num = list[i];
-      results.push(math.cube(num));
-    }
-    return results;
-  })();
-
-}).call(this);
+console.info(cubes)
