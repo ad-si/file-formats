@@ -51,7 +51,7 @@ tabulated-data	Tabulated data
 video	Video	
 video-editing	Video Editing	Video editing, production[edit]
 video-game-data	Video Game Data	List of common file formats of data for video games on systems that support filesystems, most commonly PC games.
-video-game-storage-media	Video Game Storage Media	List of the most common filename extensions used when a game's ROM image or storage medium is copied from an original ROM device to an external memory such as hard disk for back up purposes or for making the game playable with an emulator. In the case of cartridge-based software, if the platform specific extension is not used then filename extensions ".rom" or ".bin" are usually used to clarify that the file contains a copy of a content of a ROM. ROM, disk or tape images usually do not consist of a single file or ROM, rather an entire file or ROM structure contained within a single file on the backup medium.[14]
+video-game-storage-media	Video Game Storage Media	List of the most common filename extensions used when a game's ROM image or storage medium is copied from an original ROM device to an external memory such as hard disk for back up purposes or for making the game playable with an emulator. In the case of cartridge-based software, if the platform specific extension is not used then filename extensions `.rom` or `.bin` are usually used to clarify that the file contains a copy of a content of a ROM. ROM, disk or tape images usually do not consist of a single file or ROM, rather an entire file or ROM structure contained within a single file on the backup medium.[14]
 virtual-machine	Virtual Machines	
 virtual-server	Virtual Server	
 vmware		EMC VMware ESX, GSX, Workstation, Player
