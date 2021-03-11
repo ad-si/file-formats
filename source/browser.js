@@ -4,7 +4,7 @@ let fileFormats = require('../build/file-formats.json')
 
 fileFormats = fileFormats.map(formatObject => Object.assign(
   {icon: fileIcon(formatObject)},
-  formatObject
+  formatObject,
 ))
 
 document

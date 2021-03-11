@@ -2,15 +2,16 @@
   "name": "file-formats",
   "version": "0.2.1",
   "description": "List of all file formats and one example file for each format",
-  "main": "build/file-icon.js",
+  "type": "module",
+  "main": "source/file-icon.js",
   "scripts": {
     "lint": "eslint --max-warnings 0 --ignore-path .gitignore .",
-    "test": "yarn lint && make -B",
+    "test": "npm run lint && make -B",
     "postinstall": "make"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/adius/file-formats"
+    "url": "https://github.com/ad-si/file-formats"
   },
   "keywords": [
     "file-format",
@@ -20,21 +21,24 @@
   "license": "ISC",
   "private": true,
   "bugs": {
-    "url": "https://github.com/adius/file-formats/issues"
+    "url": "https://github.com/ad-si/file-formats/issues"
   },
-  "homepage": "https://github.com/adius/file-formats",
+  "homepage": "https://github.com/ad-si/file-formats",
   "dependencies": {
-    "browserify": "^14.1.0",
-    "coffee-script": "^1.12.4",
+    "browserify": "^17.0.0",
     "color-hash": "^1.0.3",
     "html-tablify": "^2.0.2",
-    "shaven": "^1.1.0"
+    "shaven": "^2.1.0"
   },
   "devDependencies": {
-    "eslint": "^3.18.0",
+    "eslint": "^7.21.0",
     "eslint-config-javascript": "^1.3.0"
   },
   "eslintConfig": {
-    "extends": "eslint-config-javascript"
+    "extends": "eslint-config-javascript",
+    "parserOptions": {
+      "ecmaVersion": 2021,
+      "sourceType": "module"
+    }
   }
 }

@@ -1,19 +1,27 @@
-const fs = require('fs')
-const url = require('url')
-const path = require('path')
+import fs from 'fs'
+import url from 'url'
+import path from 'path'
+import { fileURLToPath } from 'url'
 
-const htmlTablify = require('html-tablify')
+import htmlTablify from 'html-tablify'
 
-const fileIcon = require('../build/file-icon')
-let fileFormats = require('../build/file-formats.json')
+import fileIcon from './file-icon.js'
+
+const dirname = path.dirname(fileURLToPath(import.meta.url))
+let fileFormats =  JSON.parse(
+  fs.readFileSync(
+    path.join(dirname, '../build/file-formats.json'),
+    'utf8',
+  ),
+)
 
 
 fileFormats = fileFormats
   .map(formatObject => Object
     .assign(
       {icon: fileIcon(formatObject)},
-      formatObject
-    )
+      formatObject,
+    ),
   )
   .map(formatObject => {
     if (!formatObject.links) {
@@ -30,7 +38,7 @@ fileFormats = fileFormats
   // .slice(0,100)
 
 
-const fileContent = fs.readFileSync(path.join(__dirname, 'index.html'), 'utf8')
+const fileContent = fs.readFileSync(path.join(dirname, 'index.html'), 'utf8')
 
 const htmlTable = htmlTablify.tablify({
   data: fileFormats,
@@ -41,7 +49,7 @@ const htmlTable = htmlTablify.tablify({
 
 const html = fileContent.replace(
   '<div id="tableContainer"></div>',
-  htmlTable
+  htmlTable,
 )
 
-fs.writeFileSync(path.resolve(__dirname, '../index.html'), html)
+fs.writeFileSync(path.resolve(dirname, '../index.html'), html)
