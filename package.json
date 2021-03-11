@@ -1,13 +1,16 @@
 {
-  "name": "file-formats",
+  "name": "@lamdahq/file-formats",
   "version": "0.2.1",
   "description": "List of all file formats and one example file for each format",
   "type": "module",
   "main": "source/file-icon.js",
+  "files": [
+    "build"
+  ],
   "scripts": {
     "lint": "eslint --max-warnings 0 --ignore-path .gitignore .",
     "test": "npm run lint && make -B",
-    "postinstall": "make"
+    "prepublishOnly": "make -B"
   },
   "repository": {
     "type": "git",
@@ -19,7 +22,6 @@
   ],
   "author": "Adrian Sieber",
   "license": "ISC",
-  "private": true,
   "bugs": {
     "url": "https://github.com/ad-si/file-formats/issues"
   },
